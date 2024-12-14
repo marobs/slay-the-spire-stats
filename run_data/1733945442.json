@@ -1,0 +1,477 @@
+{
+  "gold_per_floor": [
+    118, 118, 43, 43, 43, 43, 68, 86, 86, 119, 119, 135, 154, 189, 189, 260,
+    260, 273, 273, 173, 173, 193, 193, 227, 258, 258, 55, 55, 74, 74, 101, 101,
+    172, 222, 237, 47, 58, 58, 76, 76, 102, 102, 102, 135, 135, 151, 166, 179,
+    179, 179, 179, 179, 179, 4, 31, 31
+  ],
+  "floor_reached": 57,
+  "playtime": 9510,
+  "items_purged": ["Defend_P", "Defend_P", "Strike_P", "Defend_P", "Strike_P"],
+  "score": 2882,
+  "play_id": "065b310e-0dc1-4050-855e-3909995de860",
+  "local_time": "20241211113042",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "FearNoEvil", "floor": 11.0, "key": "SMITH" },
+    { "data": "Vigilance", "floor": 15.0, "key": "SMITH" },
+    { "data": "Vault", "floor": 23.0, "key": "SMITH" },
+    { "data": "Adaptation", "floor": 28.0, "key": "SMITH" },
+    { "floor": 32.0, "key": "REST" },
+    { "floor": 40.0, "key": "RECALL" },
+    { "floor": 42.0, "key": "REST" },
+    { "floor": 49.0, "key": "REST" },
+    { "data": "Strike_P", "floor": 53, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 1607188065424625,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Defend_P+1",
+    "Eruption+1",
+    "Vigilance+1",
+    "Vault+1",
+    "FearNoEvil+1",
+    "TalkToTheHand+1",
+    "Adaptation+1",
+    "Adaptation+1",
+    "MentalFortress+1"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "NeowsBlessing",
+    "Bird Faced Urn",
+    "White Beast Statue",
+    "StrikeDummy",
+    "Blue Candle",
+    "Happy Flower",
+    "Meat on the Bone",
+    "Red Mask",
+    "Unceasing Top",
+    "Shuriken",
+    "Frozen Egg 2",
+    "Tiny House",
+    "Question Card",
+    "Strawberry",
+    "Orichalcum"
+  ],
+  "potions_floor_usage": [50, 56],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "Cultist", "floor": 1.0, "turns": 1.0 },
+    { "damage": 0.0, "enemies": "Lagavulin", "floor": 7.0, "turns": 1.0 },
+    { "damage": 0.0, "enemies": "Small Slimes", "floor": 8.0, "turns": 1.0 },
+    { "damage": 0.0, "enemies": "Gremlin Nob", "floor": 10.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Jaw Worm", "floor": 12.0, "turns": 3.0 },
+    { "damage": 5.0, "enemies": "2 Fungi Beasts", "floor": 13.0, "turns": 3.0 },
+    { "damage": 10.0, "enemies": "Lagavulin", "floor": 14.0, "turns": 5.0 },
+    { "damage": 22.0, "enemies": "The Guardian", "floor": 16.0, "turns": 14.0 },
+    { "damage": 0.0, "enemies": "Chosen", "floor": 18.0, "turns": 4.0 },
+    { "damage": 7.0, "enemies": "Shell Parasite", "floor": 22.0, "turns": 5.0 },
+    { "damage": 10.0, "enemies": "Slavers", "floor": 24.0, "turns": 3.0 },
+    {
+      "damage": 13.0,
+      "enemies": "Masked Bandits",
+      "floor": 25.0,
+      "turns": 5.0
+    },
+    { "damage": 6.0, "enemies": "Snecko", "floor": 29.0, "turns": 6.0 },
+    { "damage": 0.0, "enemies": "Gremlin Leader", "floor": 31.0, "turns": 4.0 },
+    { "damage": 39.0, "enemies": "Collector", "floor": 33.0, "turns": 9.0 },
+    { "damage": 8.0, "enemies": "3 Shapes", "floor": 35.0, "turns": 7.0 },
+    { "damage": 11.0, "enemies": "3 Darklings", "floor": 37.0, "turns": 4.0 },
+    { "damage": 9.0, "enemies": "Spire Growth", "floor": 39.0, "turns": 3.0 },
+    { "damage": 24.0, "enemies": "Reptomancer", "floor": 41.0, "turns": 5.0 },
+    { "damage": 26.0, "enemies": "Nemesis", "floor": 44.0, "turns": 8.0 },
+    { "damage": 8.0, "enemies": "4 Shapes", "floor": 46.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "Writhing Mass", "floor": 47.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Spire Growth", "floor": 48.0, "turns": 3.0 },
+    { "damage": 59, "enemies": "Time Eater", "floor": 50, "turns": 8 },
+    { "damage": 22, "enemies": "Donu and Deca", "floor": 51, "turns": 4 },
+    { "damage": 7, "enemies": "Shield and Spear", "floor": 55, "turns": 3 },
+    { "damage": 39, "enemies": "The Heart", "floor": 56, "turns": 7 }
+  ],
+  "seed_played": "2905670496636327192",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "FearPotion" },
+    { "floor": 8.0, "key": "LiquidBronze" },
+    { "floor": 10.0, "key": "ColorlessPotion" },
+    { "floor": 13.0, "key": "StancePotion" },
+    { "floor": 14.0, "key": "ColorlessPotion" },
+    { "floor": 18.0, "key": "SteroidPotion" },
+    { "floor": 24.0, "key": "Strength Potion" },
+    { "floor": 25.0, "key": "Ambrosia" },
+    { "floor": 29.0, "key": "EntropicBrew" },
+    { "floor": 31.0, "key": "SpeedPotion" },
+    { "floor": 33.0, "key": "SkillPotion" },
+    { "floor": 35.0, "key": "BottledMiracle" },
+    { "floor": 38.0, "key": "GamblersBrew" },
+    { "floor": 41.0, "key": "Ancient Potion" },
+    { "floor": 44.0, "key": "GamblersBrew" },
+    { "floor": 46.0, "key": "Regen Potion" },
+    { "floor": 48.0, "key": "FairyPotion" },
+    { "floor": 55, "key": "Swift Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "$",
+    "T",
+    "$",
+    "R",
+    "E",
+    "M",
+    "T",
+    "E",
+    "R",
+    "M",
+    "M",
+    "E",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "$",
+    "?",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "$",
+    "R",
+    "M",
+    "?",
+    "E",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "M",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "E",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "B",
+    "B",
+    null,
+    "R",
+    "$",
+    "E",
+    "B",
+    null
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Adaptation", "Adaptation+1"],
+  "campfire_rested": 3,
+  "item_purchase_floors": [27, 36],
+  "current_hp_per_floor": [
+    61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 56, 46, 46, 24, 57, 57, 57,
+    57, 57, 50, 50, 40, 39, 39, 39, 39, 35, 35, 37, 57, 32, 64, 58, 58, 51, 51,
+    46, 46, 38, 59, 59, 46, 46, 44, 50, 56, 80, 49, 45, 71, 71, 71, 70, 49
+  ],
+  "gold": 31,
+  "neow_bonus": "THREE_ENEMY_KILL",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 6,
+  "win_rate": 0,
+  "timestamp": 1733945442,
+  "path_taken": [
+    "M",
+    "?",
+    "$",
+    "?",
+    "$",
+    "R",
+    "E",
+    "M",
+    "T",
+    "E",
+    "R",
+    "M",
+    "M",
+    "E",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "$",
+    "?",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "$",
+    "R",
+    "?",
+    "?",
+    "E",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "M",
+    "?",
+    "?",
+    "R",
+    "E",
+    "R",
+    "T",
+    "E",
+    "?",
+    "M",
+    "M",
+    "?",
+    "R",
+    "BOSS",
+    "BOSS",
+    "R",
+    "$",
+    "E",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 5,
+  "victory": true,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 73, 73, 73, 73, 73,
+    73, 73, 73, 73, 73, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["ForeignInfluence", "Crescendo", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["WindmillStrike", "Halt"],
+      "picked": "FearNoEvil",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["Evaluate", "Weave", "Meditate"],
+      "picked": "SKIP",
+      "floor": 8.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "FlurryOfBlows", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 10.0
+    },
+    {
+      "not_picked": ["EmptyBody", "CarveReality", "Halt"],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": ["Vengeance", "Consecrate", "Protect"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["JustLucky", "CutThroughFate", "CrushJoints"],
+      "picked": "SKIP",
+      "floor": 14.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "FollowUp"],
+      "picked": "TalkToTheHand+1",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["SignatureMove", "WindmillStrike", "TalkToTheHand"],
+      "picked": "SKIP",
+      "floor": 22.0
+    },
+    {
+      "not_picked": ["Consecrate", "Conclude", "Protect"],
+      "picked": "SKIP",
+      "floor": 24.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "Evaluate", "BowlingBash"],
+      "picked": "SKIP",
+      "floor": 29.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "Evaluate", "BowlingBash"],
+      "picked": "SKIP",
+      "floor": 29.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "Evaluate", "BowlingBash"],
+      "picked": "SKIP",
+      "floor": 29.0
+    },
+    {
+      "not_picked": ["DeceiveReality", "Brilliance", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 31.0
+    },
+    {
+      "not_picked": ["Consecrate", "DeceiveReality", "Weave"],
+      "picked": "SKIP",
+      "floor": 35.0
+    },
+    {
+      "not_picked": ["ThirdEye+1", "CrushJoints+1", "Tantrum"],
+      "picked": "SKIP",
+      "floor": 37.0
+    },
+    {
+      "not_picked": ["Halt+1", "Tantrum", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 39.0
+    },
+    {
+      "not_picked": ["DeceiveReality", "Evaluate+1"],
+      "picked": "MentalFortress+1",
+      "floor": 41.0
+    },
+    {
+      "not_picked": ["Fasting2+1", "Ragnarok", "Crescendo", "Collect"],
+      "picked": "SKIP",
+      "floor": 44.0
+    },
+    {
+      "not_picked": ["BattleHymn+1", "CrushJoints", "SashWhip", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 46.0
+    },
+    {
+      "not_picked": ["ThirdEye", "Evaluate", "Adaptation+1", "DeceiveReality"],
+      "picked": "SKIP",
+      "floor": 47.0
+    },
+    {
+      "not_picked": ["Prostrate", "Wireheading+1", "CarveReality", "Evaluate"],
+      "picked": "SKIP",
+      "floor": 48.0
+    },
+    {
+      "not_picked": ["SashWhip", "JustLucky", "Study+1", "Evaluate"],
+      "picked": "SKIP",
+      "floor": 55
+    }
+  ],
+  "player_experience": 1287731,
+  "relics_obtained": [
+    { "floor": 4.0, "key": "Bird Faced Urn" },
+    { "floor": 7.0, "key": "White Beast Statue" },
+    { "floor": 9.0, "key": "StrikeDummy" },
+    { "floor": 10.0, "key": "Blue Candle" },
+    { "floor": 14.0, "key": "Happy Flower" },
+    { "floor": 24.0, "key": "Meat on the Bone" },
+    { "floor": 25.0, "key": "Red Mask" },
+    { "floor": 26.0, "key": "Unceasing Top" },
+    { "floor": 31.0, "key": "Frozen Egg 2" },
+    { "floor": 41.0, "key": "Question Card" },
+    { "floor": 44.0, "key": "Strawberry" },
+    { "floor": 55, "key": "Orichalcum" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Match and Keep!",
+      "player_choice": "1 cards matched",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_obtained": ["Vault"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Vampires",
+      "player_choice": "Ignored",
+      "floor": 21.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Masked Bandits",
+      "player_choice": "Fought Bandits",
+      "floor": 25.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "WeMeetAgain",
+      "player_choice": "Gave Potion",
+      "floor": 30.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "relics_obtained": ["Shuriken"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Lab",
+      "player_choice": "Got Potions",
+      "floor": 38.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Accursed Blacksmith",
+      "player_choice": "Forge",
+      "floor": 45.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_upgraded": ["Strike_P"]
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Runic Dome", "Coffee Dripper", "Snecko Eye"] },
+    {
+      "not_picked": ["Runic Pyramid", "Philosopher\u0027s Stone"],
+      "picked": "Tiny House"
+    }
+  ],
+  "items_purged_floors": [3, 20, 27, 36, 54],
+  "is_endless": false,
+  "potions_floor_spawned": [
+    1, 8, 10, 12, 13, 14, 16, 18, 22, 24, 25, 29, 31, 33, 35, 37, 39, 41, 44,
+    46, 47, 48, 55
+  ],
+  "ascension_level": 20
+}

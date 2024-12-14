@@ -1,0 +1,183 @@
+{
+  "gold_per_floor": [
+    111, 34, 51, 51, 65, 65, 65, 65, 92, 92, 103, 28, 103, 128, 128, 128
+  ],
+  "floor_reached": 16,
+  "playtime": 385,
+  "items_purged": ["Defend_P"],
+  "score": 196,
+  "play_id": "3f452a00-ace9-4fd1-94fd-db2e161e5a77",
+  "local_time": "20241122080719",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "MentalFortress", "floor": 8.0, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 10.0, "key": "SMITH" },
+    { "floor": 15.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 813986051476900,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "MentalFortress+1",
+    "Adaptation",
+    "FearNoEvil"
+  ],
+  "special_seed": 0,
+  "relics": ["PureWater", "Art of War", "Anchor"],
+  "potions_floor_usage": [],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 1.0, "turns": 4.0 },
+    { "damage": 4.0, "enemies": "Small Slimes", "floor": 3.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "Cultist", "floor": 5.0, "turns": 3.0 },
+    { "damage": 8.0, "enemies": "3 Louse", "floor": 11.0, "turns": 3.0 },
+    { "damage": 22.0, "enemies": "3 Sentries", "floor": 14.0, "turns": 7.0 },
+    { "damage": 41, "enemies": "Hexaghost", "floor": 16, "turns": 9 }
+  ],
+  "seed_played": "-3555985919119451662",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "BottledMiracle" },
+    { "floor": 3.0, "key": "EntropicBrew" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "$",
+    "M",
+    "?",
+    "M",
+    "R",
+    "?",
+    "R",
+    "T",
+    "R",
+    "M",
+    "$",
+    "?",
+    "E",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["MentalFortress"],
+  "campfire_rested": 1,
+  "item_purchase_floors": [2],
+  "current_hp_per_floor": [
+    61, 61, 57, 57, 57, 57, 57, 57, 57, 57, 49, 49, 38, 16, 36, 0
+  ],
+  "gold": 128,
+  "neow_bonus": "REMOVE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 3,
+  "win_rate": 0,
+  "timestamp": 1732291639,
+  "path_taken": [
+    "M",
+    "$",
+    "M",
+    "?",
+    "M",
+    "R",
+    "?",
+    "R",
+    "T",
+    "R",
+    "M",
+    "$",
+    "?",
+    "E",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 1,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Wireheading", "Worship", "Meditate"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Consecrate", "FlurryOfBlows", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 3.0
+    },
+    {
+      "not_picked": ["Nirvana", "CutThroughFate", "LikeWater"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["PathToVictory", "SignatureMove"],
+      "picked": "Adaptation",
+      "floor": 11.0
+    },
+    {
+      "not_picked": ["ReachHeaven", "Ragnarok"],
+      "picked": "FearNoEvil",
+      "floor": 14.0
+    }
+  ],
+  "player_experience": 1231230,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Art of War" },
+    { "floor": 14.0, "key": "Anchor" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Liars Game",
+      "player_choice": "Ignored",
+      "floor": 4.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Dead Adventurer",
+      "player_choice": "Searched \u00271\u0027 times",
+      "floor": 7.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 75.0,
+      "event_name": "World of Goop",
+      "player_choice": "Gather Gold",
+      "floor": 13.0,
+      "gold_loss": 0.0,
+      "damage_taken": 11.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [12],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 3],
+  "killed_by": "Hexaghost",
+  "ascension_level": 20
+}

@@ -1,0 +1,229 @@
+{
+  "gold_per_floor": [
+    112, 130, 143, 143, 68, 68, 103, 103, 103, 120, 80, 97, 97, 107, 107, 184,
+    184, 201, 27, 42, 61, 88, 88, 88
+  ],
+  "floor_reached": 24,
+  "playtime": 956,
+  "items_purged": ["Nirvana", "Strike_P"],
+  "score": 396,
+  "play_id": "ceb463dc-2b22-49c7-b883-333d7d4c3647",
+  "local_time": "20241209172909",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6, "key": "SMITH" },
+    { "data": "Study", "floor": 8, "key": "SMITH" },
+    { "floor": 13, "key": "REST" },
+    { "floor": 15, "key": "REST" },
+    { "floor": 23, "key": "REST" }
+  ],
+  "neow_cost": "TEN_PERCENT_HP_LOSS",
+  "seed_source_timestamp": 677054235507800,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P+1",
+    "Eruption+1",
+    "Vigilance+1",
+    "Study+1",
+    "Wallop",
+    "MentalFortress",
+    "Adaptation"
+  ],
+  "relics": ["PureWater", "Lizard Tail", "Toxic Egg 2", "War Paint"],
+  "potions_floor_usage": [10, 16, 18, 18, 20, 21],
+  "damage_taken": [
+    { "damage": 0, "enemies": "2 Louse", "floor": 1, "turns": 2 },
+    { "damage": 13, "enemies": "Jaw Worm", "floor": 2, "turns": 8 },
+    { "damage": 10, "enemies": "Cultist", "floor": 3, "turns": 5 },
+    { "damage": 3, "enemies": "Gremlin Nob", "floor": 7, "turns": 3 },
+    { "damage": 1, "enemies": "3 Louse", "floor": 10, "turns": 3 },
+    { "damage": 7, "enemies": "2 Fungi Beasts", "floor": 12, "turns": 4 },
+    { "damage": 4, "enemies": "Exordium Wildlife", "floor": 14, "turns": 3 },
+    { "damage": 13, "enemies": "The Guardian", "floor": 16, "turns": 13 },
+    { "damage": 70, "enemies": "3 Byrds", "floor": 18, "turns": 9 },
+    { "damage": 9, "enemies": "Spheric Guardian", "floor": 20, "turns": 5 },
+    { "damage": 18, "enemies": "Snake Plant", "floor": 21, "turns": 6 },
+    { "damage": 31, "enemies": "Gremlin Leader", "floor": 24, "turns": 8 }
+  ],
+  "seed_played": "-78160935634959202",
+  "potions_obtained": [
+    { "floor": 2, "key": "Energy Potion" },
+    { "floor": 11, "key": "EssenceOfSteel" },
+    { "floor": 11, "key": "Ancient Potion" },
+    { "floor": 12, "key": "Regen Potion" },
+    { "floor": 16, "key": "Regen Potion" },
+    { "floor": 18, "key": "Strength Potion" },
+    { "floor": 20, "key": "EssenceOfSteel" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "M",
+    "?",
+    "$",
+    "R",
+    "E",
+    "R",
+    "T",
+    "M",
+    "?",
+    "M",
+    "R",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "M",
+    "M",
+    "T",
+    "R",
+    "E"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["MentalFortress"],
+  "campfire_rested": 3,
+  "item_purchase_floors": [19],
+  "current_hp_per_floor": [
+    61, 48, 38, 31, 31, 31, 28, 28, 28, 27, 27, 20, 38, 34, 52, 50, 59, 4, 4,
+    31, 13, 13, 31, 0
+  ],
+  "gold": 88,
+  "neow_bonus": "TRANSFORM_TWO_CARDS",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 2,
+  "win_rate": 0,
+  "timestamp": 1733794149,
+  "path_taken": [
+    "M",
+    "M",
+    "M",
+    "?",
+    "$",
+    "R",
+    "E",
+    "R",
+    "T",
+    "M",
+    "?",
+    "M",
+    "R",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "M",
+    "M",
+    "?",
+    "R",
+    "E"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 2,
+  "victory": false,
+  "max_hp_per_floor": [
+    62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62,
+    62, 62, 62, 62, 62
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Evaluate", "ThirdEye", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 1
+    },
+    {
+      "not_picked": ["Crescendo", "ClearTheMind", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 2
+    },
+    {
+      "not_picked": ["DeceiveReality", "Pray", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 3
+    },
+    {
+      "not_picked": ["Devotion", "Swivel", "ReachHeaven"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["Conclude", "Study", "Protect+1"],
+      "picked": "SKIP",
+      "floor": 10
+    },
+    {
+      "not_picked": ["Protect+1", "Prostrate+1"],
+      "picked": "Wallop",
+      "floor": 12
+    },
+    {
+      "not_picked": ["ThirdEye+1", "FollowUp", "BowlingBash"],
+      "picked": "SKIP",
+      "floor": 14
+    },
+    {
+      "not_picked": ["CutThroughFate", "LikeWater", "CrushJoints"],
+      "picked": "SKIP",
+      "floor": 18
+    },
+    {
+      "not_picked": ["Pray+1", "ThirdEye+1"],
+      "picked": "Adaptation",
+      "floor": 20
+    },
+    {
+      "not_picked": ["Nirvana+1", "Crescendo+1", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 21
+    }
+  ],
+  "player_experience": 1281381,
+  "relics_obtained": [
+    { "floor": 7, "key": "Lizard Tail" },
+    { "floor": 9, "key": "Toxic Egg 2" },
+    { "floor": 22, "key": "War Paint" }
+  ],
+  "event_choices": [
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Card Removal",
+      "damage_taken": 7,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Wing",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Bought 3 Potions",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Woman in Blue",
+      "floor": 11,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Cursed Key", "Snecko Eye", "Philosopher\u0027s Stone"] }
+  ],
+  "items_purged_floors": [5, 19],
+  "is_endless": false,
+  "potions_floor_spawned": [2, 12, 16, 18, 20],
+  "killed_by": "Gremlin Leader",
+  "ascension_level": 20
+}

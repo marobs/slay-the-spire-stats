@@ -1,0 +1,205 @@
+{
+  "gold_per_floor": [
+    115, 190, 206, 220, 239, 239, 254, 179, 202, 242, 242, 242, 259, 274, 274,
+    372, 422, 434, 434
+  ],
+  "floor_reached": 19,
+  "playtime": 600,
+  "items_purged": ["Defend_P"],
+  "score": 180,
+  "play_id": "ca6165f7-3d7d-4b9d-a844-958688155ff1",
+  "local_time": "20240529063055",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "floor": 6.0, "key": "REST" },
+    { "data": "Eruption", "floor": 12.0, "key": "SMITH" },
+    { "floor": 15.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 0,
+  "circlet_count": 0,
+  "master_deck": [
+    "Strike_P+1",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Scrawl",
+    "EmptyFist"
+  ],
+  "special_seed": 0,
+  "relics": ["PureWater", "Happy Flower", "CeramicFish", "Tiny House"],
+  "potions_floor_usage": [16],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 1.0, "turns": 2.0 },
+    { "damage": 2.0, "enemies": "Small Slimes", "floor": 3.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Jaw Worm", "floor": 4.0, "turns": 2.0 },
+    { "damage": 32.0, "enemies": "Exordium Thugs", "floor": 5.0, "turns": 5.0 },
+    { "damage": 2.0, "enemies": "Blue Slaver", "floor": 7.0, "turns": 5.0 },
+    { "damage": 22.0, "enemies": "Gremlin Nob", "floor": 10.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "3 Louse", "floor": 13.0, "turns": 2.0 },
+    { "damage": 3.0, "enemies": "Lots of Slimes", "floor": 14.0, "turns": 4.0 },
+    { "damage": 27, "enemies": "The Guardian", "floor": 16, "turns": 16 },
+    { "damage": 2, "enemies": "Chosen", "floor": 18, "turns": 3 }
+  ],
+  "seed_played": "-4782385077303536135",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "Dexterity Potion" },
+    { "floor": 5.0, "key": "Explosive Potion" },
+    { "floor": 14.0, "key": "Weak Potion" },
+    { "floor": 16, "key": "SkillPotion" },
+    { "floor": 17, "key": "GamblersBrew" },
+    { "floor": 18, "key": "Strength Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "$",
+    "T",
+    "E",
+    "?",
+    "R",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "?"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [],
+  "campfire_rested": 2,
+  "item_purchase_floors": [],
+  "current_hp_per_floor": [
+    72, 61, 59, 59, 27, 48, 46, 46, 46, 24, 24, 24, 24, 21, 42, 15, 77, 75, 75
+  ],
+  "gold": 434,
+  "neow_bonus": "ONE_RANDOM_RARE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1716989455,
+  "path_taken": [
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "$",
+    "T",
+    "E",
+    "?",
+    "R",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 1,
+  "victory": false,
+  "max_hp_per_floor": [
+    72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 77, 77, 77
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["CarveReality", "Protect", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "SashWhip", "Halt"],
+      "picked": "SKIP",
+      "floor": 3.0
+    },
+    {
+      "not_picked": ["Pray", "ThirdEye", "Consecrate"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["WindmillStrike", "Prostrate", "Vengeance"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "DevaForm", "FlyingSleeves"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "Weave"],
+      "picked": "EmptyFist",
+      "floor": 10.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "ForeignInfluence", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "Swivel", "Prostrate"],
+      "picked": "SKIP",
+      "floor": 14.0
+    },
+    {
+      "not_picked": ["PathToVictory", "SandsOfTime", "Indignation+1"],
+      "picked": "SKIP",
+      "floor": 18
+    }
+  ],
+  "player_experience": 962029,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Happy Flower" },
+    { "floor": 10.0, "key": "CeramicFish" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 75.0,
+      "event_name": "World of Goop",
+      "player_choice": "Gather Gold",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 11.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Liars Game",
+      "player_choice": "Ignored",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Busted Crown", "Sozu"], "picked": "Tiny House" }
+  ],
+  "items_purged_floors": [8],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 5, 14, 16, 18],
+  "ascension_level": 1
+}

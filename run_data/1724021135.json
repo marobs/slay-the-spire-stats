@@ -1,0 +1,441 @@
+{
+  "gold_per_floor": [
+    116, 41, 41, 6, 17, 17, 46, 46, 69, 69, 144, 144, 157, 167, 167, 244, 244,
+    256, 256, 256, 267, 285, 285, 297, 297, 297, 331, 21, 21, 32, 43, 43, 118,
+    118, 131, 131, 131, 150, 25, 25, 38, 38, 38, 38, 54, 68, 85, 95, 95, 95
+  ],
+  "floor_reached": 50,
+  "playtime": 1962,
+  "items_purged": ["Strike_P", "Worship", "Brilliance"],
+  "score": 932,
+  "play_id": "4b8a8b31-d03f-483e-b608-63f4b8fc02aa",
+  "local_time": "20240818154535",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "EmptyFist", "floor": 10.0, "key": "SMITH" },
+    { "floor": 12.0, "key": "REST" },
+    { "data": "Strike_P", "floor": 15.0, "key": "SMITH" },
+    { "data": "ConjureBlade", "floor": 23.0, "key": "SMITH" },
+    { "floor": 25.0, "key": "REST" },
+    { "floor": 29.0, "key": "REST" },
+    { "floor": 32.0, "key": "REST" },
+    { "floor": 40.0, "key": "REST" },
+    { "floor": 42.0, "key": "REST" },
+    { "floor": 49.0, "key": "REST" }
+  ],
+  "neow_cost": "TEN_PERCENT_HP_LOSS",
+  "seed_source_timestamp": 0,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Eruption+1",
+    "Vigilance+1",
+    "EmptyFist+1",
+    "Wallop",
+    "ConjureBlade+1",
+    "Adaptation",
+    "Scrawl",
+    "SashWhip",
+    "ClearTheMind"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "Regal Pillow",
+    "Toy Ornithopter",
+    "Pandora\u0027s Box",
+    "Girya",
+    "Letter Opener",
+    "Vajra",
+    "SacredBark",
+    "Nunchaku"
+  ],
+  "potions_floor_usage": [50],
+  "damage_taken": [
+    { "damage": 11.0, "enemies": "Small Slimes", "floor": 1.0, "turns": 4.0 },
+    { "damage": 4.0, "enemies": "Jaw Worm", "floor": 5.0, "turns": 3.0 },
+    { "damage": 1.0, "enemies": "Gremlin Nob", "floor": 7.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 13.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Gremlin Gang", "floor": 14.0, "turns": 3.0 },
+    { "damage": 8.0, "enemies": "Slime Boss", "floor": 16.0, "turns": 7.0 },
+    {
+      "damage": 0.0,
+      "enemies": "Spheric Guardian",
+      "floor": 18.0,
+      "turns": 2.0
+    },
+    { "damage": 0.0, "enemies": "3 Byrds", "floor": 19.0, "turns": 1.0 },
+    { "damage": 27.0, "enemies": "3 Cultists", "floor": 21.0, "turns": 5.0 },
+    {
+      "damage": 4.0,
+      "enemies": "Centurion and Healer",
+      "floor": 22.0,
+      "turns": 5.0
+    },
+    { "damage": 24.0, "enemies": "Snake Plant", "floor": 24.0, "turns": 4.0 },
+    {
+      "damage": 42.0,
+      "enemies": "Book of Stabbing",
+      "floor": 27.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 4.0,
+      "enemies": "Sentry and Sphere",
+      "floor": 30.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 9.0,
+      "enemies": "Chosen and Byrds",
+      "floor": 31.0,
+      "turns": 5.0
+    },
+    { "damage": 49.0, "enemies": "Champ", "floor": 33.0, "turns": 7.0 },
+    { "damage": 19.0, "enemies": "3 Darklings", "floor": 35.0, "turns": 5.0 },
+    { "damage": 18.0, "enemies": "Orb Walker", "floor": 38.0, "turns": 3.0 },
+    {
+      "damage": 34.0,
+      "enemies": "Sphere and 2 Shapes",
+      "floor": 41.0,
+      "turns": 4.0
+    },
+    { "damage": 34.0, "enemies": "Writhing Mass", "floor": 45.0, "turns": 5.0 },
+    { "damage": 9.0, "enemies": "Jaw Worm Horde", "floor": 46.0, "turns": 3.0 },
+    { "damage": 23.0, "enemies": "3 Darklings", "floor": 47.0, "turns": 3.0 },
+    { "damage": 30.0, "enemies": "Spire Growth", "floor": 48.0, "turns": 3.0 },
+    { "damage": 83, "enemies": "Time Eater", "floor": 50, "turns": 6 }
+  ],
+  "seed_played": "-4800135905491497667",
+  "potions_obtained": [
+    { "floor": 7.0, "key": "SmokeBomb" },
+    { "floor": 13.0, "key": "SpeedPotion" },
+    { "floor": 18.0, "key": "Weak Potion" },
+    { "floor": 24.0, "key": "GamblersBrew" },
+    { "floor": 31.0, "key": "FairyPotion" },
+    { "floor": 33.0, "key": "SkillPotion" },
+    { "floor": 35.0, "key": "EssenceOfSteel" },
+    { "floor": 47.0, "key": "LiquidMemories" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "$",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "R",
+    "?",
+    "R",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "M",
+    "?",
+    "M",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "E",
+    "$",
+    "R",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "$",
+    "M",
+    "$",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "M",
+    "M",
+    "M",
+    "M",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Vajra", "SteroidPotion"],
+  "campfire_rested": 7,
+  "item_purchase_floors": [28, 28],
+  "current_hp_per_floor": [
+    50, 50, 43, 58, 54, 54, 53, 34, 34, 34, 23, 56, 56, 56, 56, 48, 59, 59, 62,
+    62, 40, 36, 36, 12, 45, 45, 8, 8, 41, 37, 28, 61, 17, 51, 37, 37, 37, 19,
+    19, 52, 18, 51, 51, 51, 17, 13, 37, 7, 40, 0
+  ],
+  "gold": 95,
+  "neow_bonus": "REMOVE_TWO",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 4,
+  "win_rate": 0,
+  "timestamp": 1724021135,
+  "path_taken": [
+    "M",
+    "$",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "R",
+    "?",
+    "R",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "M",
+    "?",
+    "?",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "E",
+    "$",
+    "R",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "$",
+    "M",
+    "$",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": false,
+  "max_hp_per_floor": [
+    62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62,
+    62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62,
+    62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["FlyingSleeves", "Halt", "ReachHeaven"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Vengeance", "ForeignInfluence"],
+      "picked": "EmptyFist",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["ThirdEye", "PathToVictory", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["Collect", "Halt", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["ThirdEye", "FollowUp", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 14.0
+    },
+    {
+      "not_picked": ["PathToVictory", "CrushJoints"],
+      "picked": "Adaptation",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Crescendo", "WindmillStrike", "Prostrate"],
+      "picked": "SKIP",
+      "floor": 21.0
+    },
+    {
+      "not_picked": ["EmptyBody", "CrushJoints", "Vengeance"],
+      "picked": "SKIP",
+      "floor": 22.0
+    },
+    {
+      "not_picked": ["FollowUp", "Wireheading", "Vengeance"],
+      "picked": "SKIP",
+      "floor": 24.0
+    },
+    {
+      "not_picked": ["EmptyFist", "Collect", "Nirvana"],
+      "picked": "SKIP",
+      "floor": 27.0
+    },
+    {
+      "not_picked": ["JustLucky", "Pray", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 30.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "EmptyFist", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 31.0
+    },
+    { "not_picked": ["Vault", "DevaForm"], "picked": "Scrawl", "floor": 33.0 },
+    {
+      "not_picked": ["Protect+1", "EmptyBody", "EmptyMind"],
+      "picked": "SKIP",
+      "floor": 35.0
+    },
+    {
+      "not_picked": ["DeceiveReality", "Vengeance+1", "Prostrate"],
+      "picked": "SKIP",
+      "floor": 38.0
+    },
+    {
+      "not_picked": ["Worship", "Consecrate", "Tantrum"],
+      "picked": "SKIP",
+      "floor": 41.0
+    },
+    {
+      "not_picked": ["EmptyFist", "Consecrate+1", "Prostrate+1"],
+      "picked": "SKIP",
+      "floor": 45.0
+    },
+    {
+      "not_picked": ["BattleHymn", "Protect", "ForeignInfluence"],
+      "picked": "SKIP",
+      "floor": 46.0
+    },
+    {
+      "not_picked": ["Conclude+1", "PathToVictory+1", "FlyingSleeves+1"],
+      "picked": "SKIP",
+      "floor": 47.0
+    },
+    {
+      "not_picked": ["Evaluate", "FollowUp"],
+      "picked": "ClearTheMind",
+      "floor": 48.0
+    }
+  ],
+  "player_experience": 1119906,
+  "relics_obtained": [
+    { "floor": 7.0, "key": "Regal Pillow" },
+    { "floor": 9.0, "key": "Toy Ornithopter" },
+    { "floor": 26.0, "key": "Girya" },
+    { "floor": 27.0, "key": "Letter Opener" },
+    { "floor": 43.0, "key": "Nunchaku" }
+  ],
+  "event_choices": [
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Wing",
+      "player_choice": "Card Removal",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 7.0
+    },
+    {
+      "damage_healed": 15.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Cleric",
+      "player_choice": "Healed",
+      "floor": 4.0,
+      "gold_loss": 35.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Shining Light",
+      "player_choice": "Entered Light",
+      "floor": 8.0,
+      "gold_loss": 0.0,
+      "damage_taken": 19.0,
+      "cards_upgraded": ["Vigilance", "Strike_P"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 75.0,
+      "event_name": "World of Goop",
+      "player_choice": "Gather Gold",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 11.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Duplicator",
+      "player_choice": "Copied",
+      "floor": 20.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_obtained": ["Adaptation"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "cards_transformed": ["Adaptation"],
+      "event_name": "Transmorgrifier",
+      "player_choice": "Transformed",
+      "floor": 44.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_obtained": ["SashWhip"]
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Calling Bell", "Snecko Eye"],
+      "picked": "Pandora\u0027s Box"
+    },
+    { "not_picked": ["Empty Cage", "Busted Crown"], "picked": "SacredBark" }
+  ],
+  "items_purged_floors": [2, 28, 39],
+  "is_endless": false,
+  "potions_floor_spawned": [7, 13, 14, 18, 24, 31, 33, 35, 38, 45, 47],
+  "killed_by": "Time Eater",
+  "ascension_level": 20
+}

@@ -1,0 +1,139 @@
+{
+  "gold_per_floor": [111, 121, 135, 135, 153, 153, 78, 98, 146, 146, 67, 67],
+  "floor_reached": 12,
+  "playtime": 341,
+  "items_purged": [],
+  "score": 140,
+  "play_id": "6ca941d6-5e54-482f-bbce-254441042616",
+  "local_time": "20241126213939",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6, "key": "SMITH" },
+    { "floor": 10, "key": "REST" }
+  ],
+  "neow_cost": "PERCENT_DAMAGE",
+  "seed_source_timestamp": 1208575657698500,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "CutThroughFate",
+    "MentalFortress"
+  ],
+  "relics": ["PureWater", "Tiny Chest"],
+  "potions_floor_usage": [8, 12],
+  "damage_taken": [
+    { "damage": 0, "enemies": "Small Slimes", "floor": 1, "turns": 3 },
+    { "damage": 0, "enemies": "2 Louse", "floor": 2, "turns": 2 },
+    { "damage": 2, "enemies": "Jaw Worm", "floor": 3, "turns": 3 },
+    { "damage": 8, "enemies": "3 Louse", "floor": 5, "turns": 2 },
+    { "damage": 12, "enemies": "Large Slime", "floor": 8, "turns": 5 },
+    { "damage": 36, "enemies": "3 Sentries", "floor": 12, "turns": 8 }
+  ],
+  "seed_played": "-7737741195203840727",
+  "potions_obtained": [
+    { "floor": 2, "key": "Weak Potion" },
+    { "floor": 5, "key": "SkillPotion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "M",
+    "?",
+    "M",
+    "R",
+    "?",
+    "M",
+    "T",
+    "R",
+    "$",
+    "E"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["MentalFortress"],
+  "campfire_rested": 1,
+  "item_purchase_floors": [11],
+  "current_hp_per_floor": [43, 43, 41, 41, 33, 33, 33, 21, 21, 41, 41, 5],
+  "gold": 67,
+  "neow_bonus": "TRANSFORM_TWO_CARDS",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1732685979,
+  "path_taken": ["M", "M", "M", "?", "M", "R", "?", "M", "T", "R", "$", "E"],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68],
+  "card_choices": [
+    {
+      "not_picked": ["CutThroughFate", "Swivel", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 1
+    },
+    {
+      "not_picked": ["EmptyFist", "Crescendo", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 2
+    },
+    {
+      "not_picked": ["Halt", "Wish", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 3
+    },
+    {
+      "not_picked": ["FlyingSleeves", "CarveReality", "Protect"],
+      "picked": "SKIP",
+      "floor": 5
+    },
+    {
+      "not_picked": ["SashWhip", "BowlingBash", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 8
+    }
+  ],
+  "player_experience": 1241575,
+  "relics_obtained": [{ "floor": 9, "key": "Tiny Chest" }],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Fled",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Scrap Ooze",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": ["Alpha"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Card Removal",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Cleric",
+      "floor": 7,
+      "gold_loss": 75
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [2, 5],
+  "killed_by": "3 Sentries",
+  "ascension_level": 20
+}

@@ -1,0 +1,82 @@
+{
+  "gold_per_floor": [109, 109, 109],
+  "floor_reached": 3,
+  "playtime": 198,
+  "items_purged": [],
+  "score": 18,
+  "play_id": "b13fd26f-6737-4be7-a4f4-1c7a9d30aabc",
+  "local_time": "20240614190635",
+  "is_ascension_mode": true,
+  "campfire_choices": [],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 116522372836600,
+  "circlet_count": 0,
+  "master_deck": [
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption",
+    "Vigilance",
+    "MentalFortress"
+  ],
+  "relics": ["PureWater", "NeowsBlessing"],
+  "potions_floor_usage": [],
+  "damage_taken": [
+    { "damage": 0, "enemies": "Cultist", "floor": 1, "turns": 1 }
+  ],
+  "seed_played": "-4201428588110434359",
+  "potions_obtained": [{ "floor": 1, "key": "FairyPotion" }],
+  "is_trial": false,
+  "path_per_floor": ["M", "?", "?"],
+  "character_chosen": "WATCHER",
+  "items_purchased": [],
+  "campfire_rested": 0,
+  "item_purchase_floors": [],
+  "current_hp_per_floor": [72, 65, 65],
+  "gold": 109,
+  "neow_bonus": "THREE_ENEMY_KILL",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 0,
+  "win_rate": 0,
+  "timestamp": 1718417195,
+  "path_taken": ["M", "?", "?"],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [72, 72, 72],
+  "card_choices": [
+    {
+      "not_picked": ["CrushJoints", "Halt"],
+      "picked": "MentalFortress",
+      "floor": 1
+    }
+  ],
+  "player_experience": 974213,
+  "relics_obtained": [],
+  "event_choices": [
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Card Removal",
+      "damage_taken": 7,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Wing",
+      "floor": 2,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [1],
+  "ascension_level": 1
+}

@@ -1,0 +1,351 @@
+{
+  "gold_per_floor": [
+    117, 143, 160, 160, 85, 116, 116, 143, 195, 195, 220, 120, 135, 150, 150,
+    225, 225, 243, 293, 2, 2, 22, 22, 49, 49, 49, 49, 61, 74, 100, 100, 100,
+    174, 174, 185, 235, 235
+  ],
+  "floor_reached": 37,
+  "playtime": 1176,
+  "items_purged": ["Defend_P", "Strike_P", "Blasphemy"],
+  "score": 994,
+  "play_id": "ee6021b4-a52a-4556-949a-2ef3fecfc664",
+  "local_time": "20240412132426",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 7, "key": "SMITH" },
+    { "floor": 10, "key": "REST" },
+    { "data": "Tantrum", "floor": 15, "key": "SMITH" },
+    { "data": "TalkToTheHand", "floor": 23, "key": "SMITH" },
+    { "data": "Blasphemy", "floor": 25, "key": "SMITH" },
+    { "data": "TalkToTheHand", "floor": 32, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 763314712307700,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Eruption+1",
+    "Vigilance",
+    "Tantrum+1",
+    "Scrawl",
+    "FearNoEvil+1",
+    "Blasphemy+1",
+    "EmptyBody",
+    "Meditate",
+    "TalkToTheHand+1",
+    "Protect",
+    "TalkToTheHand+1"
+  ],
+  "relics": [
+    "PureWater",
+    "NeowsBlessing",
+    "Damaru",
+    "Meat on the Bone",
+    "Frozen Egg 2",
+    "Anchor",
+    "Darkstone Periapt",
+    "Pandora\u0027s Box",
+    "PreservedInsect",
+    "Whetstone",
+    "Pen Nib",
+    "Molten Egg 2",
+    "MutagenicStrength",
+    "Bird Faced Urn"
+  ],
+  "potions_floor_usage": [16, 24, 36],
+  "damage_taken": [
+    { "damage": 0, "enemies": "Cultist", "floor": 1, "turns": 1 },
+    { "damage": 0, "enemies": "2 Louse", "floor": 3, "turns": 1 },
+    { "damage": 0, "enemies": "3 Sentries", "floor": 6, "turns": 1 },
+    { "damage": 28, "enemies": "Lagavulin", "floor": 8, "turns": 8 },
+    { "damage": 45, "enemies": "3 Sentries", "floor": 11, "turns": 5 },
+    { "damage": 0, "enemies": "Small Slimes", "floor": 13, "turns": 2 },
+    { "damage": 0, "enemies": "2 Fungi Beasts", "floor": 14, "turns": 2 },
+    { "damage": 0, "enemies": "Slime Boss", "floor": 16, "turns": 4 },
+    { "damage": 2, "enemies": "Shell Parasite", "floor": 18, "turns": 4 },
+    { "damage": 0, "enemies": "2 Thieves", "floor": 22, "turns": 3 },
+    { "damage": 8, "enemies": "Gremlin Leader", "floor": 24, "turns": 5 },
+    { "damage": 0, "enemies": "Snecko", "floor": 28, "turns": 4 },
+    { "damage": 1, "enemies": "Centurion and Healer", "floor": 29, "turns": 4 },
+    { "damage": 0, "enemies": "Book of Stabbing", "floor": 30, "turns": 3 },
+    { "damage": 1, "enemies": "Collector", "floor": 33, "turns": 8 },
+    { "damage": 0, "enemies": "3 Shapes", "floor": 35, "turns": 2 },
+    { "damage": 52, "enemies": "2 Orb Walkers", "floor": 36, "turns": 5 },
+    { "damage": 24, "enemies": "3 Darklings", "floor": 37, "turns": 2 }
+  ],
+  "seed_played": "-6394247577374900813",
+  "potions_obtained": [
+    { "floor": 3, "key": "SpeedPotion" },
+    { "floor": 8, "key": "BlessingOfTheForge" },
+    { "floor": 16, "key": "PowerPotion" },
+    { "floor": 18, "key": "PowerPotion" },
+    { "floor": 28, "key": "Explosive Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "T",
+    "M",
+    "?",
+    "$",
+    "E",
+    "R",
+    "E",
+    "T",
+    "R",
+    "E",
+    "$",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "$",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "?",
+    "M",
+    "M",
+    "E",
+    "?",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["PreservedInsect"],
+  "campfire_rested": 1,
+  "item_purchase_floors": [20],
+  "current_hp_per_floor": [
+    61, 61, 61, 61, 61, 61, 61, 45, 45, 65, 32, 32, 44, 44, 44, 44, 62, 60, 60,
+    60, 60, 60, 60, 52, 52, 52, 52, 52, 51, 51, 51, 51, 50, 64, 64, 24, 0
+  ],
+  "gold": 235,
+  "neow_bonus": "THREE_ENEMY_KILL",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 5,
+  "win_rate": 0,
+  "timestamp": 1712953466,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "?",
+    "$",
+    "E",
+    "R",
+    "E",
+    "T",
+    "R",
+    "E",
+    "$",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "$",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "?",
+    "M",
+    "?",
+    "E",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Crescendo", "Protect", "Pray"],
+      "picked": "SKIP",
+      "floor": 1
+    },
+    {
+      "not_picked": ["Evaluate", "Vengeance"],
+      "picked": "Tantrum",
+      "floor": 3
+    },
+    {
+      "not_picked": ["Worship", "ThirdEye", "WaveOfTheHand"],
+      "picked": "SKIP",
+      "floor": 6
+    },
+    {
+      "not_picked": ["SashWhip", "WindmillStrike"],
+      "picked": "Scrawl",
+      "floor": 8
+    },
+    {
+      "not_picked": ["Wireheading+1", "ForeignInfluence", "EmptyMind"],
+      "picked": "SKIP",
+      "floor": 11
+    },
+    {
+      "not_picked": ["CutThroughFate", "PathToVictory"],
+      "picked": "FearNoEvil",
+      "floor": 13
+    },
+    {
+      "not_picked": ["ThirdEye", "Evaluate", "CarveReality"],
+      "picked": "SKIP",
+      "floor": 14
+    },
+    {
+      "not_picked": ["ClearTheMind", "FlurryOfBlows", "Evaluate"],
+      "picked": "SKIP",
+      "floor": 18
+    },
+    {
+      "not_picked": ["FlyingSleeves+1", "Tantrum", "Pray"],
+      "picked": "SKIP",
+      "floor": 22
+    },
+    {
+      "not_picked": ["BattleHymn+1", "Conclude", "JustLucky"],
+      "picked": "SKIP",
+      "floor": 24
+    },
+    {
+      "not_picked": ["Prostrate", "Pray", "Protect"],
+      "picked": "SKIP",
+      "floor": 28
+    },
+    {
+      "not_picked": ["Halt", "CarveReality", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 29
+    },
+    {
+      "not_picked": ["Indignation", "Scrawl", "Tantrum+1"],
+      "picked": "SKIP",
+      "floor": 30
+    },
+    {
+      "not_picked": ["Crescendo", "FlurryOfBlows+1", "FollowUp+1"],
+      "picked": "SKIP",
+      "floor": 35
+    }
+  ],
+  "player_experience": 942855,
+  "relics_obtained": [
+    { "floor": 2, "key": "Damaru" },
+    { "floor": 6, "key": "Meat on the Bone" },
+    { "floor": 8, "key": "Frozen Egg 2" },
+    { "floor": 9, "key": "Anchor" },
+    { "floor": 11, "key": "Darkstone Periapt" },
+    { "floor": 24, "key": "Whetstone" },
+    { "floor": 26, "key": "Pen Nib" },
+    { "floor": 30, "key": "Molten Egg 2" },
+    { "floor": 36, "key": "Bird Faced Urn" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Liars Game",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 50,
+      "player_choice": "Stole From Cult",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Nest",
+      "floor": 19,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Mausoleum",
+      "floor": 21,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Read",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Library",
+      "floor": 27,
+      "gold_loss": 0,
+      "cards_obtained": ["TalkToTheHand"]
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Inject Mutagens",
+      "damage_taken": 0,
+      "relics_obtained": ["MutagenicStrength"],
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Drug Dealer",
+      "floor": 31,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Fight",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Mysterious Sphere",
+      "floor": 36,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Busted Crown", "SlaversCollar"],
+      "picked": "Pandora\u0027s Box"
+    },
+    { "not_picked": ["Coffee Dripper", "Calling Bell", "Runic Dome"] }
+  ],
+  "items_purged_floors": [5, 12, 20],
+  "is_endless": false,
+  "potions_floor_spawned": [3, 8, 13, 16, 18, 28, 30, 35],
+  "killed_by": "3 Darklings",
+  "ascension_level": 18
+}

@@ -1,0 +1,441 @@
+{
+  "gold_per_floor": [
+    118, 118, 118, 118, 137, 137, 171, 171, 171, 186, 186, 186, 207, 220, 220,
+    350, 350, 373, 389, 314, 314, 335, 335, 335, 371, 371, 122, 122, 136, 136,
+    151, 151, 277, 340, 360, 235, 235, 235, 256, 256, 287, 287, 287, 131, 151,
+    101, 164, 183, 183, 183
+  ],
+  "floor_reached": 50,
+  "playtime": 2440,
+  "items_purged": ["Defend_P", "Strike_P+1", "Defend_P+1"],
+  "score": 539,
+  "play_id": "607b9ab3-ec70-4cbd-865b-ec0b716e0292",
+  "local_time": "20240624213928",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "floor": 6, "key": "REST" },
+    { "data": "Strike_P", "floor": 8, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 15, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 23, "key": "SMITH" },
+    { "floor": 28, "key": "REST" },
+    { "floor": 30, "key": "RECALL" },
+    { "data": "Adaptation", "floor": 32, "key": "SMITH" },
+    { "floor": 40, "key": "REST" },
+    { "floor": 42, "key": "REST" },
+    { "data": "ForeignInfluence", "floor": 49, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 3552115582200,
+  "circlet_count": 0,
+  "master_deck": [
+    "Strike_P+1",
+    "Strike_P+1",
+    "Eruption+1",
+    "Vigilance+1",
+    "Wallop+1",
+    "Adaptation+1",
+    "TalkToTheHand+1",
+    "TalkToTheHand+1",
+    "ForeignInfluence+1"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "HolyWater",
+    "Golden Idol",
+    "Orichalcum",
+    "Molten Egg 2",
+    "Centennial Puzzle",
+    "TungstenRod",
+    "Oddly Smooth Stone",
+    "Tiny House",
+    "TeardropLocket",
+    "Kunai",
+    "Orrery",
+    "Prayer Wheel"
+  ],
+  "potions_floor_usage": [13, 16, 22, 25, 33, 41, 41, 50, 50],
+  "damage_taken": [
+    { "damage": 1.0, "enemies": "Jaw Worm", "floor": 1.0, "turns": 4.0 },
+    { "damage": 0, "enemies": "Small Slimes", "floor": 5, "turns": 2 },
+    { "damage": 8, "enemies": "Gremlin Nob", "floor": 7, "turns": 3 },
+    { "damage": 0, "enemies": "Cultist", "floor": 10, "turns": 2 },
+    { "damage": 0, "enemies": "Red Slaver", "floor": 13, "turns": 2 },
+    { "damage": 0, "enemies": "Blue Slaver", "floor": 14, "turns": 3 },
+    { "damage": 23, "enemies": "The Guardian", "floor": 16, "turns": 11 },
+    { "damage": 7, "enemies": "2 Thieves", "floor": 18, "turns": 3 },
+    { "damage": 0, "enemies": "Shell Parasite", "floor": 19, "turns": 6 },
+    { "damage": 0, "enemies": "Snake Plant", "floor": 22, "turns": 3 },
+    { "damage": 31, "enemies": "Book of Stabbing", "floor": 25, "turns": 5 },
+    { "damage": 0, "enemies": "Chosen and Byrds", "floor": 29, "turns": 4 },
+    { "damage": 0, "enemies": "Snecko", "floor": 31, "turns": 4 },
+    { "damage": 50, "enemies": "Automaton", "floor": 33, "turns": 9 },
+    { "damage": 0, "enemies": "3 Darklings", "floor": 35, "turns": 4 },
+    { "damage": 0, "enemies": "3 Shapes", "floor": 39, "turns": 3 },
+    { "damage": 0, "enemies": "Reptomancer", "floor": 41, "turns": 7 },
+    { "damage": 0, "enemies": "Transient", "floor": 45, "turns": 5 },
+    {
+      "damage": 0,
+      "enemies": "Mind Bloom Boss Battle",
+      "floor": 47,
+      "turns": 9
+    },
+    { "damage": 0, "enemies": "4 Shapes", "floor": 48, "turns": 6 },
+    { "damage": 82, "enemies": "Awakened One", "floor": 50, "turns": 25 }
+  ],
+  "seed_played": "-9043801880590194855",
+  "potions_obtained": [
+    { "floor": 5, "key": "Ambrosia" },
+    { "floor": 7, "key": "Regen Potion" },
+    { "floor": 10, "key": "Fire Potion" },
+    { "floor": 16, "key": "Weak Potion" },
+    { "floor": 22, "key": "Weak Potion" },
+    { "floor": 25, "key": "Energy Potion" },
+    { "floor": 33, "key": "ColorlessPotion" },
+    { "floor": 34, "key": "Ancient Potion" },
+    { "floor": 48, "key": "Fruit Juice" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "M",
+    "?",
+    "$",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "M",
+    "$",
+    "T",
+    "M",
+    "R",
+    "?",
+    "E",
+    "T",
+    "$",
+    "R",
+    "M",
+    "R",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "$",
+    "M",
+    "$",
+    "?",
+    "M",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Wallop+1", "Adaptation", "Orrery", "ColorlessPotion"],
+  "campfire_rested": 4,
+  "item_purchase_floors": [27, 27, 44, 46],
+  "current_hp_per_floor": [
+    71, 53, 53, 39, 39, 60, 52, 52, 52, 52, 52, 52, 52, 52, 52, 44, 72, 65, 65,
+    65, 65, 65, 65, 65, 34, 34, 34, 55, 55, 55, 55, 55, 5, 77, 77, 77, 77, 77,
+    77, 77, 77, 77, 77, 77, 77, 77, 77, 77, 77, 0
+  ],
+  "gold": 183,
+  "neow_bonus": "REMOVE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 5,
+  "win_rate": 0,
+  "timestamp": 1719290368,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "M",
+    "?",
+    "$",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "$",
+    "?",
+    "M",
+    "R",
+    "?",
+    "E",
+    "T",
+    "$",
+    "R",
+    "?",
+    "R",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "?",
+    "?",
+    "M",
+    "R",
+    "E",
+    "R",
+    "T",
+    "$",
+    "M",
+    "?",
+    "?",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": false,
+  "max_hp_per_floor": [
+    72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72,
+    72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 77, 77, 77, 77, 77,
+    77, 77, 77, 77, 77, 77, 77, 77, 77, 77, 77, 82
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Evaluate", "Protect", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["WindmillStrike", "Protect", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 5
+    },
+    {
+      "not_picked": ["SandsOfTime", "Fasting2", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["ThirdEye", "Halt", "SignatureMove+1"],
+      "picked": "SKIP",
+      "floor": 10
+    },
+    {
+      "not_picked": ["Study", "EmptyFist+1", "SashWhip+1"],
+      "picked": "SKIP",
+      "floor": 13
+    },
+    {
+      "not_picked": ["FlyingSleeves+1", "BowlingBash+1", "EmptyMind"],
+      "picked": "SKIP",
+      "floor": 14
+    },
+    {
+      "not_picked": ["EmptyFist+1", "Crescendo", "SashWhip+1"],
+      "picked": "SKIP",
+      "floor": 18
+    },
+    {
+      "not_picked": ["PathToVictory", "SignatureMove+1", "Consecrate+1"],
+      "picked": "SKIP",
+      "floor": 19
+    },
+    {
+      "not_picked": ["ThirdEye", "FlyingSleeves+1", "EmptyMind+1"],
+      "picked": "SKIP",
+      "floor": 22
+    },
+    {
+      "not_picked": ["ThirdEye", "Consecrate+1"],
+      "picked": "Adaptation+1",
+      "floor": 25
+    },
+    {
+      "not_picked": ["Crescendo+1", "LikeWater", "Weave+1"],
+      "picked": "SKIP",
+      "floor": 29
+    },
+    {
+      "not_picked": ["Omniscience", "ThirdEye"],
+      "picked": "TalkToTheHand+1",
+      "floor": 31
+    },
+    {
+      "not_picked": ["ThirdEye", "EmptyBody"],
+      "picked": "TalkToTheHand+1",
+      "floor": 34
+    },
+    {
+      "not_picked": ["EmptyBody+1", "BowlingBash+1", "Weave+1"],
+      "picked": "SKIP",
+      "floor": 35
+    },
+    {
+      "not_picked": ["Tantrum+1", "Evaluate", "Halt"],
+      "picked": "SKIP",
+      "floor": 39
+    },
+    {
+      "not_picked": ["SashWhip+1", "ThirdEye+1", "FlurryOfBlows+1"],
+      "picked": "SKIP",
+      "floor": 41
+    },
+    {
+      "not_picked": ["FollowUp+1", "FlurryOfBlows+1", "Consecrate+1"],
+      "picked": "SKIP",
+      "floor": 45
+    },
+    {
+      "not_picked": ["JustLucky+1", "EmptyMind"],
+      "picked": "ForeignInfluence",
+      "floor": 48
+    },
+    {
+      "not_picked": ["Swivel+1", "SashWhip+1", "FollowUp+1"],
+      "picked": "SKIP",
+      "floor": 48
+    }
+  ],
+  "player_experience": 997140,
+  "relics_obtained": [
+    { "floor": 7, "key": "Orichalcum" },
+    { "floor": 9, "key": "Molten Egg 2" },
+    { "floor": 24, "key": "Centennial Puzzle" },
+    { "floor": 25, "key": "TungstenRod" },
+    { "floor": 26, "key": "Oddly Smooth Stone" },
+    { "floor": 41, "key": "TeardropLocket" },
+    { "floor": 43, "key": "Kunai" },
+    { "floor": 47, "key": "Prayer Wheel" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Idol",
+      "player_choice": "Take Damage",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 18.0,
+      "relics_obtained": ["Golden Idol"]
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Forget",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Living Wall",
+      "floor": 3,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Entered Light",
+      "damage_taken": 14,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Shining Light",
+      "floor": 4,
+      "gold_loss": 0,
+      "cards_upgraded": ["Eruption", "Defend_P"]
+    },
+    {
+      "cards_removed": ["Strike_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Purged",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Purifier",
+      "floor": 11,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Relic",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Wheel of Change",
+      "floor": 24,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": ["Adaptation"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Removed Power",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Falling",
+      "floor": 37,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Tomb of Lord Red Mask",
+      "floor": 38,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Fight",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "MindBloom",
+      "floor": 47,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Philosopher\u0027s Stone", "Black Star"],
+      "picked": "HolyWater"
+    },
+    { "not_picked": ["Astrolabe", "Coffee Dripper"], "picked": "Tiny House" }
+  ],
+  "items_purged_floors": [20, 27, 36],
+  "is_endless": false,
+  "potions_floor_spawned": [5, 7, 10, 16, 22, 25, 33, 39, 48],
+  "killed_by": "Awakened One",
+  "ascension_level": 1
+}

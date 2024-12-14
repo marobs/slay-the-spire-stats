@@ -1,0 +1,456 @@
+{
+  "gold_per_floor": [
+    111, 111, 130, 142, 158, 158, 176, 176, 251, 251, 285, 304, 135, 148, 148,
+    226, 226, 241, 141, 152, 169, 169, 169, 169, 169, 169, 44, 44, 56, 56, 69,
+    69, 142, 142, 158, 8, 20, 31, 31, 31, 31, 31, 31, 60, 0, 32, 56, 68
+  ],
+  "floor_reached": 48,
+  "playtime": 2101,
+  "items_purged": ["Strike_P", "Defend_P", "Strike_P", "Strike_P"],
+  "score": 978,
+  "play_id": "0306a3fc-de41-4a0a-af52-03a8cef95abe",
+  "local_time": "20241128232616",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "BowlingBash", "floor": 6.0, "key": "SMITH" },
+    { "floor": 10.0, "key": "REST" },
+    { "data": "Strike_P", "floor": 15.0, "key": "SMITH" },
+    { "floor": 23.0, "key": "REST" },
+    { "floor": 28.0, "key": "REST" },
+    { "data": "TalkToTheHand", "floor": 30.0, "key": "SMITH" },
+    { "data": "Vigilance", "floor": 32.0, "key": "SMITH" },
+    { "floor": 40.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 89993464074900,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance+1",
+    "BowlingBash+1",
+    "InnerPeace",
+    "Wireheading",
+    "TalkToTheHand+1",
+    "Nirvana+1",
+    "Prostrate+1",
+    "Dark Shackles",
+    "Tantrum+1",
+    "Study+1"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "Ornamental Fan",
+    "Pocketwatch",
+    "VioletLotus",
+    "Sundial",
+    "Question Card",
+    "SlaversCollar",
+    "MealTicket",
+    "MawBank",
+    "Red Mask"
+  ],
+  "potions_floor_usage": [],
+  "damage_taken": [
+    { "damage": 11.0, "enemies": "Small Slimes", "floor": 1.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 3.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Cultist", "floor": 4.0, "turns": 3.0 },
+    { "damage": 10.0, "enemies": "Gremlin Gang", "floor": 5.0, "turns": 4.0 },
+    { "damage": 1.0, "enemies": "Looter", "floor": 7.0, "turns": 2.0 },
+    { "damage": 2.0, "enemies": "3 Sentries", "floor": 11.0, "turns": 5.0 },
+    { "damage": 15.0, "enemies": "3 Louse", "floor": 12.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Blue Slaver", "floor": 14.0, "turns": 1.0 },
+    { "damage": 18.0, "enemies": "Hexaghost", "floor": 16.0, "turns": 6.0 },
+    { "damage": 26.0, "enemies": "2 Thieves", "floor": 18.0, "turns": 3.0 },
+    {
+      "damage": 11.0,
+      "enemies": "Spheric Guardian",
+      "floor": 20.0,
+      "turns": 3.0
+    },
+    { "damage": 3.0, "enemies": "Snake Plant", "floor": 21.0, "turns": 4.0 },
+    {
+      "damage": 0.0,
+      "enemies": "Cultist and Chosen",
+      "floor": 29.0,
+      "turns": 3.0
+    },
+    { "damage": 0.0, "enemies": "Snecko", "floor": 31.0, "turns": 4.0 },
+    { "damage": 53.0, "enemies": "Champ", "floor": 33.0, "turns": 16.0 },
+    { "damage": 0.0, "enemies": "Orb Walker", "floor": 35.0, "turns": 3.0 },
+    { "damage": 2.0, "enemies": "3 Darklings", "floor": 37.0, "turns": 5.0 },
+    { "damage": 23.0, "enemies": "Writhing Mass", "floor": 38.0, "turns": 8.0 },
+    { "damage": 0.0, "enemies": "Reptomancer", "floor": 44.0, "turns": 5.0 },
+    { "damage": 7.0, "enemies": "Jaw Worm Horde", "floor": 46.0, "turns": 4.0 },
+    { "damage": 15.0, "enemies": "Maw", "floor": 47.0, "turns": 8.0 },
+    { "damage": 30, "enemies": "Nemesis", "floor": 48, "turns": 4 }
+  ],
+  "seed_played": "7581598306214462715",
+  "potions_obtained": [
+    { "floor": 4.0, "key": "Fire Potion" },
+    { "floor": 5.0, "key": "Energy Potion" },
+    { "floor": 11.0, "key": "DuplicationPotion" },
+    { "floor": 21.0, "key": "Fire Potion" },
+    { "floor": 29.0, "key": "Fire Potion" },
+    { "floor": 31.0, "key": "Regen Potion" },
+    { "floor": 35.0, "key": "Explosive Potion" },
+    { "floor": 37.0, "key": "AttackPotion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "?",
+    "T",
+    "R",
+    "E",
+    "M",
+    "$",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "M",
+    "M",
+    "?",
+    "R",
+    "?",
+    "T",
+    "T",
+    "$",
+    "R",
+    "M",
+    "R",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "M",
+    "M",
+    "?",
+    "R",
+    "?",
+    "?",
+    "T",
+    "E",
+    "?",
+    "M",
+    "M",
+    "E"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["ColorlessPotion", "Wireheading"],
+  "campfire_rested": 4,
+  "item_purchase_floors": [13, 13],
+  "current_hp_per_floor": [
+    50, 43, 43, 43, 33, 33, 32, 32, 32, 52, 50, 35, 35, 35, 35, 17, 55, 29, 29,
+    18, 15, 15, 35, 35, 35, 35, 35, 55, 55, 55, 55, 55, 15, 55, 55, 55, 53, 30,
+    30, 50, 50, 50, 50, 50, 50, 43, 28, 0
+  ],
+  "gold": 68,
+  "neow_bonus": "UPGRADE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 4,
+  "win_rate": 0,
+  "timestamp": 1732865176,
+  "path_taken": [
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "?",
+    "T",
+    "R",
+    "E",
+    "?",
+    "$",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "?",
+    "M",
+    "?",
+    "R",
+    "?",
+    "?",
+    "T",
+    "?",
+    "R",
+    "M",
+    "R",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "M",
+    "M",
+    "?",
+    "R",
+    "?",
+    "?",
+    "T",
+    "E",
+    "?",
+    "M",
+    "M",
+    "E"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 4,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 65, 65, 65, 65, 65, 65, 65, 65
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Halt", "Study", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["LikeWater", "EmptyBody", "Sanctity"],
+      "picked": "SKIP",
+      "floor": 3.0
+    },
+    {
+      "not_picked": ["BowlingBash", "FlurryOfBlows", "JustLucky"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["FlurryOfBlows", "JustLucky"],
+      "picked": "BowlingBash",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["WheelKick", "Conclude", "ForeignInfluence"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["JustLucky", "LikeWater"],
+      "picked": "InnerPeace",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["ForeignInfluence", "EmptyMind", "CrushJoints"],
+      "picked": "SKIP",
+      "floor": 11.0
+    },
+    {
+      "not_picked": ["BattleHymn", "Study", "ReachHeaven"],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": ["BowlingBash", "Fasting2", "Collect"],
+      "picked": "SKIP",
+      "floor": 14.0
+    },
+    {
+      "not_picked": ["JustLucky", "ThirdEye", "SashWhip"],
+      "picked": "SKIP",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Collect", "InnerPeace"],
+      "picked": "TalkToTheHand",
+      "floor": 20.0
+    },
+    {
+      "not_picked": ["Consecrate", "FlyingSleeves", "Protect"],
+      "picked": "SKIP",
+      "floor": 21.0
+    },
+    {
+      "not_picked": ["BowlingBash", "Conclude", "EmptyBody", "Protect+1"],
+      "picked": "SKIP",
+      "floor": 29.0
+    },
+    {
+      "not_picked": ["Conclude+1", "Establishment", "FlurryOfBlows"],
+      "picked": "Nirvana+1",
+      "floor": 31.0
+    },
+    {
+      "not_picked": ["CrushJoints", "Vengeance", "Halt", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 35.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "FlurryOfBlows+1", "Evaluate"],
+      "picked": "Prostrate+1",
+      "floor": 37.0
+    },
+    {
+      "not_picked": [
+        "WreathOfFlame",
+        "ClearTheMind",
+        "PathToVictory",
+        "Prostrate+1"
+      ],
+      "picked": "SKIP",
+      "floor": 38.0
+    },
+    {
+      "not_picked": ["Secret Weapon", "Jack Of All Trades", "Mayhem"],
+      "picked": "Dark Shackles",
+      "floor": 42.0
+    },
+    {
+      "not_picked": ["Wireheading", "ForeignInfluence", "ClearTheMind"],
+      "picked": "Tantrum+1",
+      "floor": 44.0
+    },
+    {
+      "not_picked": ["Crescendo", "Perseverance", "Protect", "WreathOfFlame+1"],
+      "picked": "SKIP",
+      "floor": 46.0
+    },
+    {
+      "not_picked": ["SashWhip", "WreathOfFlame", "WaveOfTheHand"],
+      "picked": "Study+1",
+      "floor": 47.0
+    }
+  ],
+  "player_experience": 1250966,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Ornamental Fan" },
+    { "floor": 11.0, "key": "Pocketwatch" },
+    { "floor": 25.0, "key": "Sundial" },
+    { "floor": 26.0, "key": "Question Card" },
+    { "floor": 43.0, "key": "MealTicket" },
+    { "floor": 44.0, "key": "MawBank" }
+  ],
+  "event_choices": [
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Wing",
+      "player_choice": "Card Removal",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 7.0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Purifier",
+      "player_choice": "Purged",
+      "floor": 8.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Mausoleum",
+      "player_choice": "Ignored",
+      "floor": 22.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Vampires",
+      "player_choice": "Ignored",
+      "floor": 24.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Moai Head",
+      "player_choice": "Ignored",
+      "floor": 39.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 3.0,
+      "gold_gain": 0.0,
+      "event_name": "Winding Halls",
+      "player_choice": "Max HP",
+      "floor": 41.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "SensoryStone",
+      "player_choice": "Memory 1",
+      "floor": 42.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Tomb of Lord Red Mask",
+      "player_choice": "Paid",
+      "floor": 45.0,
+      "gold_loss": 72.0,
+      "damage_taken": 0.0,
+      "relics_obtained": ["Red Mask"]
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Snecko Eye", "Pandora\u0027s Box"],
+      "picked": "VioletLotus"
+    },
+    {
+      "not_picked": ["Philosopher\u0027s Stone", "Fusion Hammer"],
+      "picked": "SlaversCollar"
+    }
+  ],
+  "items_purged_floors": [13, 19, 27, 36],
+  "is_endless": false,
+  "potions_floor_spawned": [4, 5, 11, 14, 21, 29, 31, 35, 37, 38],
+  "killed_by": "Nemesis",
+  "ascension_level": 20
+}

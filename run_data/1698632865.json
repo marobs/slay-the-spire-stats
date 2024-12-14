@@ -1,0 +1,490 @@
+{
+    "gold_per_floor": [
+        114,
+        39,
+        39,
+        39,
+        39,
+        65,
+        75,
+        87,
+        87,
+        122,
+        122,
+        140,
+        155,
+        173,
+        173,
+        274,
+        274,
+        289,
+        289,
+        308,
+        308,
+        75,
+        75,
+        75
+    ],
+    "floor_reached": 24,
+    "playtime": 561,
+    "items_purged": [
+        "Defend_P"
+    ],
+    "score": 372,
+    "play_id": "191e6b71-27c6-4ad1-9df4-bcfd142ae99f",
+    "local_time": "20231029192745",
+    "is_ascension_mode": true,
+    "campfire_choices": [
+        {
+            "floor": 11,
+            "key": "REST"
+        },
+        {
+            "floor": 15,
+            "key": "REST"
+        },
+        {
+            "data": "Eruption",
+            "floor": 23,
+            "key": "SMITH"
+        }
+    ],
+    "neow_cost": "NONE",
+    "seed_source_timestamp": 8874653897500,
+    "circlet_count": 0,
+    "master_deck": [
+        "AscendersBane",
+        "Defend_P",
+        "Defend_P",
+        "Eruption+1",
+        "Vigilance",
+        "EmptyFist",
+        "FlyingSleeves",
+        "Consecrate+1",
+        "Bite+1",
+        "Bite+1",
+        "Bite+1",
+        "Bite+1",
+        "Bite+1",
+        "MentalFortress"
+    ],
+    "special_seed": 0,
+    "relics": [
+        "PureWater",
+        "NeowsBlessing",
+        "Molten Egg 2",
+        "Pantograph",
+        "SacredBark",
+        "Lee\u0027s Waffle"
+    ],
+    "potions_floor_usage": [
+        16,
+        16,
+        20
+    ],
+    "damage_taken": [
+        {
+            "damage": 0.0,
+            "enemies": "Jaw Worm",
+            "floor": 1.0,
+            "turns": 1.0
+        },
+        {
+            "damage": 0.0,
+            "enemies": "Lagavulin",
+            "floor": 6.0,
+            "turns": 1.0
+        },
+        {
+            "damage": 0.0,
+            "enemies": "Small Slimes",
+            "floor": 7.0,
+            "turns": 1.0
+        },
+        {
+            "damage": 1.0,
+            "enemies": "Cultist",
+            "floor": 8.0,
+            "turns": 3.0
+        },
+        {
+            "damage": 62,
+            "enemies": "Gremlin Nob",
+            "floor": 10,
+            "turns": 5
+        },
+        {
+            "damage": 0,
+            "enemies": "Red Slaver",
+            "floor": 12,
+            "turns": 1
+        },
+        {
+            "damage": 0,
+            "enemies": "Looter",
+            "floor": 13,
+            "turns": 2
+        },
+        {
+            "damage": 3,
+            "enemies": "Blue Slaver",
+            "floor": 14,
+            "turns": 3
+        },
+        {
+            "damage": 34,
+            "enemies": "Hexaghost",
+            "floor": 16,
+            "turns": 7
+        },
+        {
+            "damage": 25,
+            "enemies": "Shell Parasite",
+            "floor": 18,
+            "turns": 5
+        },
+        {
+            "damage": 17,
+            "enemies": "2 Thieves",
+            "floor": 20,
+            "turns": 3
+        },
+        {
+            "damage": 95,
+            "enemies": "Book of Stabbing",
+            "floor": 24,
+            "turns": 5
+        }
+    ],
+    "seed_played": "7433557653876630335",
+    "potions_obtained": [
+        {
+            "floor": 12,
+            "key": "BlessingOfTheForge"
+        },
+        {
+            "floor": 13,
+            "key": "BlessingOfTheForge"
+        },
+        {
+            "floor": 18,
+            "key": "DistilledChaos"
+        }
+    ],
+    "is_trial": false,
+    "path_per_floor": [
+        "M",
+        "$",
+        "?",
+        "$",
+        "?",
+        "E",
+        "M",
+        "M",
+        "T",
+        "E",
+        "R",
+        "M",
+        "M",
+        "M",
+        "R",
+        "B",
+        null,
+        "M",
+        "?",
+        "M",
+        "?",
+        "$",
+        "R",
+        "E"
+    ],
+    "character_chosen": "WATCHER",
+    "items_purchased": [
+        "Lee\u0027s Waffle",
+        "MentalFortress"
+    ],
+    "campfire_rested": 2,
+    "item_purchase_floors": [
+        22,
+        22
+    ],
+    "current_hp_per_floor": [
+        65,
+        65,
+        58,
+        58,
+        58,
+        58,
+        60,
+        61,
+        61,
+        1,
+        22,
+        24,
+        26,
+        25,
+        46,
+        38,
+        64,
+        41,
+        41,
+        26,
+        26,
+        79,
+        79,
+        0
+    ],
+    "gold": 75,
+    "neow_bonus": "THREE_ENEMY_KILL",
+    "is_prod": false,
+    "is_daily": false,
+    "chose_seed": false,
+    "campfire_upgraded": 1,
+    "win_rate": 0,
+    "timestamp": 1698632865,
+    "path_taken": [
+        "M",
+        "$",
+        "?",
+        "$",
+        "?",
+        "E",
+        "M",
+        "M",
+        "T",
+        "E",
+        "R",
+        "?",
+        "M",
+        "M",
+        "R",
+        "BOSS",
+        "M",
+        "?",
+        "M",
+        "?",
+        "$",
+        "R",
+        "E"
+    ],
+    "build_version": "2022-12-18",
+    "purchased_purges": 1,
+    "victory": false,
+    "max_hp_per_floor": [
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        79,
+        79,
+        79
+    ],
+    "card_choices": [
+        {
+            "not_picked": [
+                "Evaluate",
+                "EmptyBody"
+            ],
+            "picked": "EmptyFist",
+            "floor": 1.0
+        },
+        {
+            "not_picked": [
+                "Protect",
+                "WaveOfTheHand",
+                "CrushJoints"
+            ],
+            "picked": "SKIP",
+            "floor": 6.0
+        },
+        {
+            "not_picked": [
+                "Nirvana",
+                "CutThroughFate",
+                "Consecrate"
+            ],
+            "picked": "SKIP",
+            "floor": 7.0
+        },
+        {
+            "not_picked": [
+                "PathToVictory",
+                "Protect",
+                "Evaluate"
+            ],
+            "picked": "SKIP",
+            "floor": 8.0
+        },
+        {
+            "not_picked": [
+                "Judgement",
+                "EmptyBody"
+            ],
+            "picked": "Consecrate+1",
+            "floor": 10
+        },
+        {
+            "not_picked": [
+                "SashWhip+1",
+                "BowlingBash+1",
+                "SandsOfTime+1"
+            ],
+            "picked": "SKIP",
+            "floor": 12
+        },
+        {
+            "not_picked": [
+                "Consecrate+1",
+                "Perseverance",
+                "PathToVictory"
+            ],
+            "picked": "SKIP",
+            "floor": 13
+        },
+        {
+            "not_picked": [
+                "SandsOfTime+1",
+                "Consecrate+1",
+                "Nirvana"
+            ],
+            "picked": "SKIP",
+            "floor": 14
+        },
+        {
+            "not_picked": [
+                "CrushJoints+1",
+                "Protect",
+                "ClearTheMind"
+            ],
+            "picked": "SKIP",
+            "floor": 18
+        },
+        {
+            "not_picked": [
+                "WheelKick+1",
+                "EmptyFist+1",
+                "EmptyBody"
+            ],
+            "picked": "SKIP",
+            "floor": 20
+        }
+    ],
+    "player_experience": 756976,
+    "relics_obtained": [
+        {
+            "floor": 6.0,
+            "key": "Blood Vial"
+        },
+        {
+            "floor": 9.0,
+            "key": "Molten Egg 2"
+        },
+        {
+            "floor": 10,
+            "key": "Pantograph"
+        }
+    ],
+    "event_choices": [
+        {
+            "cards_removed": [
+                "Strike_P"
+            ],
+            "damage_healed": 0.0,
+            "max_hp_gain": 0.0,
+            "max_hp_loss": 0.0,
+            "gold_gain": 0.0,
+            "event_name": "Golden Wing",
+            "player_choice": "Card Removal",
+            "floor": 3.0,
+            "gold_loss": 0.0,
+            "damage_taken": 7.0
+        },
+        {
+            "damage_healed": 0.0,
+            "max_hp_gain": 0.0,
+            "max_hp_loss": 0.0,
+            "gold_gain": 0.0,
+            "cards_transformed": [
+                "Defend_P"
+            ],
+            "event_name": "Transmorgrifier",
+            "player_choice": "Transformed",
+            "floor": 5.0,
+            "gold_loss": 0.0,
+            "damage_taken": 0.0,
+            "cards_obtained": [
+                "FlyingSleeves"
+            ]
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Ignored",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Cursed Tome",
+            "floor": 19,
+            "gold_loss": 0
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Became a vampire (Vial)",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Vampires",
+            "floor": 21,
+            "relics_lost": [
+                "Blood Vial"
+            ],
+            "gold_loss": 0,
+            "cards_obtained": [
+                "Bite",
+                "Bite",
+                "Bite",
+                "Bite",
+                "Bite"
+            ]
+        }
+    ],
+    "is_beta": false,
+    "boss_relics": [
+        {
+            "not_picked": [
+                "Tiny House",
+                "SlaversCollar"
+            ],
+            "picked": "SacredBark"
+        }
+    ],
+    "items_purged_floors": [
+        2
+    ],
+    "is_endless": false,
+    "potions_floor_spawned": [
+        12,
+        13,
+        18
+    ],
+    "killed_by": "Book of Stabbing",
+    "ascension_level": 10
+}

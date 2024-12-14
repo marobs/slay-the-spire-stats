@@ -1,0 +1,420 @@
+{
+  "gold_per_floor": [
+    115, 65, 76, 76, 92, 117, 137, 137, 137, 137, 137, 150, 75, 103, 103, 200,
+    200, 220, 120, 120, 131, 151, 151, 151, 151, 151, 151, 151, 151, 169, 94,
+    94, 196, 196, 211, 211, 221, 238, 238, 238, 42, 71, 71, 91, 91, 105, 118,
+    131, 131, 131
+  ],
+  "floor_reached": 51,
+  "playtime": 1595,
+  "items_purged": ["Defend_P", "Strike_P", "Strike_P"],
+  "score": 976,
+  "play_id": "1fee177d-2e57-47ad-b240-30e0406985b7",
+  "local_time": "20240614193417",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "floor": 8.0, "key": "REST" },
+    { "data": "Eruption", "floor": 10.0, "key": "SMITH" },
+    { "data": "Conclude", "floor": 15.0, "key": "SMITH" },
+    { "floor": 23.0, "key": "REST" },
+    { "data": "Wallop", "floor": 28.0, "key": "SMITH" },
+    { "data": "Ragnarok", "floor": 32.0, "key": "SMITH" },
+    { "data": "MentalFortress", "floor": 40.0, "key": "SMITH" },
+    { "data": "Adaptation", "floor": 45, "key": "SMITH" },
+    { "floor": 49, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 116743605099100,
+  "circlet_count": 0,
+  "master_deck": [
+    "Eruption+1",
+    "Vigilance",
+    "Conclude+1",
+    "Ragnarok+1",
+    "MentalFortress+1",
+    "InnerPeace",
+    "Adaptation+1"
+  ],
+  "special_seed": 0,
+  "relics": ["PureWater"],
+  "potions_floor_usage": [50, 50, 50],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 1.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Jaw Worm", "floor": 3.0, "turns": 3.0 },
+    { "damage": 2.0, "enemies": "Small Slimes", "floor": 5.0, "turns": 4.0 },
+    { "damage": 46.0, "enemies": "3 Sentries", "floor": 6.0, "turns": 7.0 },
+    { "damage": 4.0, "enemies": "Blue Slaver", "floor": 7.0, "turns": 7.0 },
+    { "damage": 0.0, "enemies": "Lots of Slimes", "floor": 12.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Gremlin Nob", "floor": 14.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Slime Boss", "floor": 16.0, "turns": 4.0 },
+    { "damage": 14.0, "enemies": "2 Thieves", "floor": 18.0, "turns": 3.0 },
+    {
+      "damage": 10.0,
+      "enemies": "Shell Parasite",
+      "floor": 21.0,
+      "turns": 4.0
+    },
+    { "damage": 12.0, "enemies": "Snecko", "floor": 22.0, "turns": 3.0 },
+    {
+      "damage": 0.0,
+      "enemies": "Sentry and Sphere",
+      "floor": 30.0,
+      "turns": 3.0
+    },
+    { "damage": 2.0, "enemies": "Collector", "floor": 33.0, "turns": 3.0 },
+    { "damage": 4.0, "enemies": "3 Shapes", "floor": 35.0, "turns": 3.0 },
+    { "damage": 2.0, "enemies": "Orb Walker", "floor": 37.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Transient", "floor": 38.0, "turns": 5.0 },
+    { "damage": 8.0, "enemies": "Nemesis", "floor": 42.0, "turns": 3.0 },
+    { "damage": 14, "enemies": "4 Shapes", "floor": 44, "turns": 2 },
+    { "damage": 2, "enemies": "Spire Growth", "floor": 46, "turns": 2 },
+    { "damage": 0, "enemies": "Jaw Worm Horde", "floor": 47, "turns": 2 },
+    { "damage": 3, "enemies": "4 Shapes", "floor": 48, "turns": 2 },
+    { "damage": 0, "enemies": "Awakened One", "floor": 50, "turns": 4 }
+  ],
+  "seed_played": "-3217483847219627143",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "Fruit Juice" },
+    { "floor": 6.0, "key": "Block Potion" },
+    { "floor": 12.0, "key": "Dexterity Potion" },
+    { "floor": 14.0, "key": "Ancient Potion" },
+    { "floor": 22.0, "key": "PowerPotion" },
+    { "floor": 33.0, "key": "SkillPotion" },
+    { "floor": 36.0, "key": "Ambrosia" },
+    { "floor": 44, "key": "FearPotion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "M",
+    "?",
+    "M",
+    "E",
+    "M",
+    "R",
+    "T",
+    "R",
+    "?",
+    "M",
+    "$",
+    "E",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "?",
+    "M",
+    "M",
+    "R",
+    "?",
+    "T",
+    "T",
+    "T",
+    "R",
+    "?",
+    "M",
+    "$",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "M",
+    "?",
+    "R",
+    "$",
+    "E",
+    "T",
+    "M",
+    "R",
+    "M",
+    "M",
+    "M",
+    "R",
+    "B",
+    null
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["InnerPeace", "Adaptation"],
+  "campfire_rested": 3,
+  "item_purchase_floors": [31, 41],
+  "current_hp_per_floor": [
+    79, 79, 79, 79, 77, 31, 27, 50, 50, 50, 50, 50, 50, 50, 50, 55, 84, 70, 70,
+    70, 60, 48, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 71, 84, 80, 80, 78, 78,
+    78, 78, 78, 70, 70, 56, 56, 54, 54, 51, 76, 76
+  ],
+  "gold": 131,
+  "neow_bonus": "TEN_PERCENT_HP_BONUS",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 6,
+  "win_rate": 0,
+  "timestamp": 1718418857,
+  "path_taken": [
+    "M",
+    "?",
+    "M",
+    "?",
+    "?",
+    "E",
+    "M",
+    "R",
+    "T",
+    "R",
+    "?",
+    "M",
+    "?",
+    "E",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "?",
+    "M",
+    "M",
+    "R",
+    "?",
+    "?",
+    "T",
+    "?",
+    "R",
+    "?",
+    "M",
+    "$",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "?",
+    "M",
+    "?",
+    "R",
+    "$",
+    "E",
+    "T",
+    "M",
+    "R",
+    "M",
+    "M",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": true,
+  "max_hp_per_floor": [
+    79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 84, 84, 84, 84,
+    84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84,
+    84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["SignatureMove", "Halt", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["FlurryOfBlows", "SashWhip", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 3.0
+    },
+    {
+      "not_picked": ["BowlingBash", "CutThroughFate", "Pray"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["Evaluate", "Protect", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 6.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "Weave", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["CrushJoints", "FollowUp", "DeusExMachina"],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": ["EmptyMind", "FlurryOfBlows"],
+      "picked": "Conclude",
+      "floor": 14.0
+    },
+    { "not_picked": ["Halt", "Weave"], "picked": "Wallop", "floor": 18.0 },
+    {
+      "not_picked": ["Crescendo", "Evaluate", "Sanctity+1"],
+      "picked": "SKIP",
+      "floor": 21.0
+    },
+    {
+      "not_picked": ["Prostrate", "BowlingBash+1", "Conclude"],
+      "picked": "SKIP",
+      "floor": 22.0
+    },
+    {
+      "not_picked": ["Protect", "Wallop", "Brilliance"],
+      "picked": "SKIP",
+      "floor": 30.0
+    },
+    {
+      "not_picked": ["Halt", "Wallop", "Crescendo+1"],
+      "picked": "SKIP",
+      "floor": 35.0
+    },
+    {
+      "not_picked": ["SignatureMove+1", "Consecrate", "Weave+1"],
+      "picked": "SKIP",
+      "floor": 37.0
+    },
+    {
+      "not_picked": ["TalkToTheHand", "EmptyBody+1", "Wallop+1"],
+      "picked": "SKIP",
+      "floor": 38.0
+    },
+    {
+      "not_picked": ["Evaluate", "LikeWater+1", "CrushJoints+1"],
+      "picked": "SKIP",
+      "floor": 42.0
+    },
+    {
+      "not_picked": ["Protect+1", "ClearTheMind+1", "LessonLearned"],
+      "picked": "SKIP",
+      "floor": 44
+    },
+    {
+      "not_picked": ["Protect+1", "ClearTheMind+1", "LessonLearned"],
+      "picked": "SKIP",
+      "floor": 44
+    },
+    {
+      "not_picked": ["TalkToTheHand", "Halt", "Vengeance+1"],
+      "picked": "SKIP",
+      "floor": 46
+    },
+    {
+      "not_picked": ["BowlingBash+1", "Evaluate+1", "JustLucky"],
+      "picked": "SKIP",
+      "floor": 47
+    },
+    {
+      "not_picked": ["SashWhip+1", "Vengeance", "WaveOfTheHand"],
+      "picked": "SKIP",
+      "floor": 48
+    }
+  ],
+  "player_experience": 974411,
+  "relics_obtained": [],
+  "event_choices": [
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Cleric",
+      "player_choice": "Card Removal",
+      "floor": 2.0,
+      "gold_loss": 50.0,
+      "damage_taken": 0.0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Living Wall",
+      "player_choice": "Forget",
+      "floor": 4.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Scrap Ooze",
+      "player_choice": "Fled",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "cards_removed": ["Strike_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Back to Basics",
+      "player_choice": "Elegance",
+      "floor": 20.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "cards_transformed": ["Strike_P", "Defend_P"],
+      "event_name": "Drug Dealer",
+      "player_choice": "Became Test Subject",
+      "floor": 24.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_obtained": ["Ragnarok", "MentalFortress"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Vampires",
+      "player_choice": "Ignored",
+      "floor": 29.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Lab",
+      "player_choice": "Got Potions",
+      "floor": 36.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "cards_removed": ["Wallop"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Falling",
+      "player_choice": "Removed Attack",
+      "floor": 39.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Velvet Choker", "Cursed Key", "Fusion Hammer"] },
+    { "not_picked": ["Velvet Choker", "Cursed Key", "Fusion Hammer"] }
+  ],
+  "items_purged_floors": [13, 19, 41],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 6, 12, 14, 22, 33, 37, 38, 44],
+  "ascension_level": 1
+}

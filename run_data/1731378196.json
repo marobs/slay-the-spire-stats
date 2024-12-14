@@ -1,0 +1,401 @@
+{
+  "gold_per_floor": [
+    111, 121, 46, 59, 74, 74, 88, 88, 164, 164, 164, 164, 499, 86, 86, 182, 182,
+    202, 102, 123, 123, 123, 163, 163, 163, 231, 246, 246, 246, 121, 121, 121,
+    214, 214, 228, 247, 247, 270, 44, 44, 83, 8, 8, 33, 33, 56, 56, 56, 56, 56,
+    56
+  ],
+  "floor_reached": 52,
+  "playtime": 2069,
+  "items_purged": ["Defend_P", "Alpha+1", "Defend_P", "Strike_P+1"],
+  "score": 1867,
+  "play_id": "6296aeff-5a67-4187-811f-33a0d448aae7",
+  "local_time": "20241111182316",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Wallop", "floor": 6.0, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 8.0, "key": "SMITH" },
+    { "floor": 12.0, "key": "REST" },
+    { "data": "Tantrum", "floor": 15.0, "key": "SMITH" },
+    { "data": "MentalFortress", "floor": 24.0, "key": "SMITH" },
+    { "data": "Vigilance", "floor": 28.0, "key": "SMITH" },
+    { "floor": 32.0, "key": "REST" },
+    { "floor": 40.0, "key": "REST" },
+    { "data": "MentalFortress", "floor": 45.0, "key": "SMITH" },
+    { "data": "MentalFortress", "floor": 47.0, "key": "SMITH" },
+    { "data": "Study", "floor": 49.0, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 604967975001800,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Eruption+1",
+    "Vigilance+1",
+    "Wallop+1",
+    "MentalFortress+1",
+    "Tantrum+1",
+    "CrushJoints+1",
+    "FlyingSleeves+1",
+    "MentalFortress+1",
+    "Study+1",
+    "MentalFortress+1",
+    "MentalFortress+1",
+    "Adaptation"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "Gremlin Horn",
+    "Golden Idol",
+    "Old Coin",
+    "Meat on the Bone",
+    "Astrolabe",
+    "Happy Flower",
+    "Toxic Egg 2",
+    "Mercury Hourglass",
+    "Empty Cage",
+    "Eternal Feather",
+    "Pear"
+  ],
+  "potions_floor_usage": [],
+  "damage_taken": [
+    { "damage": 4.0, "enemies": "2 Louse", "floor": 1.0, "turns": 3.0 },
+    { "damage": 10.0, "enemies": "Small Slimes", "floor": 2.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "Cultist", "floor": 4.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Looter", "floor": 5.0, "turns": 2.0 },
+    { "damage": 8.0, "enemies": "3 Louse", "floor": 7.0, "turns": 3.0 },
+    { "damage": 7.0, "enemies": "Lagavulin", "floor": 13.0, "turns": 7.0 },
+    { "damage": 26.0, "enemies": "Hexaghost", "floor": 16.0, "turns": 9.0 },
+    { "damage": 0.0, "enemies": "3 Byrds", "floor": 18.0, "turns": 3.0 },
+    { "damage": 15.0, "enemies": "Chosen", "floor": 20.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "Gremlin Leader", "floor": 23.0, "turns": 3.0 },
+    {
+      "damage": 9.0,
+      "enemies": "Shelled Parasite and Fungi",
+      "floor": 27.0,
+      "turns": 2.0
+    },
+    { "damage": 62.0, "enemies": "Automaton", "floor": 33.0, "turns": 9.0 },
+    { "damage": 0.0, "enemies": "3 Shapes", "floor": 35.0, "turns": 2.0 },
+    { "damage": 8.0, "enemies": "3 Darklings", "floor": 36.0, "turns": 3.0 },
+    {
+      "damage": 11.0,
+      "enemies": "Jaw Worm Horde",
+      "floor": 38.0,
+      "turns": 3.0
+    },
+    { "damage": 21.0, "enemies": "Giant Head", "floor": 41.0, "turns": 8.0 },
+    { "damage": 0.0, "enemies": "Maw", "floor": 44.0, "turns": 7.0 },
+    { "damage": 2.0, "enemies": "4 Shapes", "floor": 46.0, "turns": 4.0 },
+    { "damage": 68.0, "enemies": "Time Eater", "floor": 50.0, "turns": 16.0 },
+    { "damage": 42, "enemies": "Donu and Deca", "floor": 51, "turns": 14 }
+  ],
+  "seed_played": "-139109013430996667",
+  "potions_obtained": [
+    { "floor": 5.0, "key": "Dexterity Potion" },
+    { "floor": 7.0, "key": "Weak Potion" },
+    { "floor": 13.0, "key": "PowerPotion" },
+    { "floor": 16.0, "key": "Fire Potion" },
+    { "floor": 20.0, "key": "GamblersBrew" },
+    { "floor": 23.0, "key": "FairyPotion" },
+    { "floor": 38.0, "key": "DistilledChaos" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "$",
+    "M",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "?",
+    "R",
+    "E",
+    "$",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "M",
+    "$",
+    "?",
+    "E",
+    "R",
+    "?",
+    "T",
+    "M",
+    "R",
+    "?",
+    "$",
+    "T",
+    "R",
+    "B",
+    null,
+    "M",
+    "M",
+    "$",
+    "M",
+    "$",
+    "R",
+    "E",
+    "$",
+    "T",
+    "M",
+    "R",
+    "M",
+    "R",
+    "?",
+    "R",
+    "B",
+    "B",
+    null
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [
+    "MentalFortress",
+    "Meat on the Bone",
+    "Tantrum",
+    "Study",
+    "MentalFortress"
+  ],
+  "campfire_rested": 3,
+  "item_purchase_floors": [14, 14, 14, 39, 42],
+  "current_hp_per_floor": [
+    57, 47, 47, 47, 47, 47, 39, 39, 39, 16, 16, 36, 29, 29, 29, 15, 55, 55, 55,
+    40, 40, 40, 40, 40, 40, 40, 43, 43, 43, 43, 43, 63, 13, 54, 54, 46, 46, 35,
+    35, 55, 46, 46, 56, 56, 62, 60, 66, 66, 72, 16, 17
+  ],
+  "gold": 56,
+  "neow_bonus": "UPGRADE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 8,
+  "win_rate": 0,
+  "timestamp": 1731378196,
+  "path_taken": [
+    "M",
+    "M",
+    "$",
+    "M",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "?",
+    "R",
+    "E",
+    "$",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "M",
+    "$",
+    "?",
+    "E",
+    "R",
+    "?",
+    "T",
+    "M",
+    "R",
+    "?",
+    "?",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "M",
+    "$",
+    "M",
+    "$",
+    "R",
+    "E",
+    "$",
+    "T",
+    "M",
+    "R",
+    "M",
+    "R",
+    "?",
+    "R",
+    "BOSS",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 4,
+  "victory": true,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 78, 78, 78, 78, 78, 78, 78, 78, 78
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["SashWhip", "Consecrate", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["WindmillStrike", "ThirdEye", "Meditate"],
+      "picked": "SKIP",
+      "floor": 2.0
+    },
+    {
+      "not_picked": ["Consecrate", "Omniscience"],
+      "picked": "Wallop",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "Halt", "Perseverance"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["Perseverance", "ForeignInfluence", "ClearTheMind"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["Fasting2", "SashWhip", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["BowlingBash", "Fasting2", "Evaluate"],
+      "picked": "SKIP",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Protect", "Consecrate+1", "Blasphemy"],
+      "picked": "SKIP",
+      "floor": 20.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "LessonLearned", "SignatureMove"],
+      "picked": "SKIP",
+      "floor": 23.0
+    },
+    {
+      "not_picked": ["ReachHeaven", "Protect+1", "ThirdEye+1"],
+      "picked": "SKIP",
+      "floor": 27.0
+    },
+    {
+      "not_picked": ["Tantrum+1", "PathToVictory+1", "Halt+1"],
+      "picked": "SKIP",
+      "floor": 35.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "DeceiveReality+1", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 36.0
+    },
+    {
+      "not_picked": ["EmptyFist", "Indignation+1"],
+      "picked": "MentalFortress",
+      "floor": 38.0
+    },
+    {
+      "not_picked": ["InnerPeace+1", "Perseverance+1"],
+      "picked": "MentalFortress+1",
+      "floor": 41.0
+    },
+    {
+      "not_picked": ["FlurryOfBlows", "Wireheading"],
+      "picked": "Adaptation",
+      "floor": 44.0
+    },
+    {
+      "not_picked": ["JustLucky", "CrushJoints+1", "WindmillStrike"],
+      "picked": "SKIP",
+      "floor": 46.0
+    }
+  ],
+  "player_experience": 1205356,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Gremlin Horn" },
+    { "floor": 13.0, "key": "Old Coin" },
+    { "floor": 23.0, "key": "Happy Flower" },
+    { "floor": 26.0, "key": "Toxic Egg 2" },
+    { "floor": 31.0, "key": "Mercury Hourglass" },
+    { "floor": 41.0, "key": "Eternal Feather" },
+    { "floor": 43.0, "key": "Pear" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Idol",
+      "player_choice": "Take Damage",
+      "floor": 10.0,
+      "gold_loss": 0.0,
+      "damage_taken": 23.0,
+      "relics_obtained": ["Golden Idol"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Upgrade Shrine",
+      "player_choice": "Upgraded",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_upgraded": ["Strike_P"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Mausoleum",
+      "player_choice": "Ignored",
+      "floor": 25.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Vampires",
+      "player_choice": "Ignored",
+      "floor": 29.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Moai Head",
+      "player_choice": "Ignored",
+      "floor": 48.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Tiny House", "Sozu"], "picked": "Astrolabe" },
+    { "not_picked": ["SlaversCollar", "Calling Bell"], "picked": "Empty Cage" }
+  ],
+  "items_purged_floors": [3, 19, 30, 39],
+  "is_endless": false,
+  "potions_floor_spawned": [5, 7, 13, 16, 20, 23, 38, 41, 44],
+  "ascension_level": 20
+}

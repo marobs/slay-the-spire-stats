@@ -1,0 +1,243 @@
+{
+    "gold_per_floor": [
+        118,
+        118,
+        133,
+        133,
+        150,
+        150,
+        150,
+        75,
+        75,
+        75
+    ],
+    "floor_reached": 10,
+    "playtime": 178,
+    "items_purged": [
+        "Strike_P"
+    ],
+    "score": 84,
+    "play_id": "c8e27ab1-b602-4291-b2d4-3738b1af0c34",
+    "local_time": "20231029194213",
+    "is_ascension_mode": true,
+    "campfire_choices": [
+        {
+            "data": "Eruption",
+            "floor": 6,
+            "key": "SMITH"
+        }
+    ],
+    "neow_cost": "NONE",
+    "seed_source_timestamp": 10143349765900,
+    "circlet_count": 0,
+    "master_deck": [
+        "AscendersBane",
+        "Strike_P",
+        "Strike_P",
+        "Strike_P",
+        "Defend_P",
+        "Defend_P",
+        "Defend_P",
+        "Eruption+1",
+        "Vigilance",
+        "Brilliance+1",
+        "Prostrate",
+        "Pray"
+    ],
+    "relics": [
+        "PureWater",
+        "InkBottle",
+        "TungstenRod"
+    ],
+    "potions_floor_usage": [],
+    "damage_taken": [
+        {
+            "damage": 0,
+            "enemies": "Jaw Worm",
+            "floor": 1,
+            "turns": 2
+        },
+        {
+            "damage": 0,
+            "enemies": "Small Slimes",
+            "floor": 3,
+            "turns": 3
+        },
+        {
+            "damage": 0,
+            "enemies": "2 Louse",
+            "floor": 5,
+            "turns": 2
+        },
+        {
+            "damage": 45,
+            "enemies": "Gremlin Nob",
+            "floor": 10,
+            "turns": 4
+        }
+    ],
+    "seed_played": "4793798587940881752",
+    "potions_obtained": [],
+    "is_trial": false,
+    "path_per_floor": [
+        "M",
+        "?",
+        "M",
+        "?",
+        "M",
+        "R",
+        "?",
+        "$",
+        "T",
+        "?"
+    ],
+    "character_chosen": "WATCHER",
+    "items_purchased": [],
+    "campfire_rested": 0,
+    "item_purchase_floors": [],
+    "current_hp_per_floor": [
+        65,
+        65,
+        65,
+        47,
+        47,
+        47,
+        40,
+        40,
+        40,
+        0
+    ],
+    "gold": 75,
+    "neow_bonus": "ONE_RANDOM_RARE_CARD",
+    "is_prod": false,
+    "is_daily": false,
+    "chose_seed": false,
+    "campfire_upgraded": 1,
+    "win_rate": 0,
+    "timestamp": 1698633733,
+    "path_taken": [
+        "M",
+        "?",
+        "M",
+        "?",
+        "M",
+        "R",
+        "?",
+        "$",
+        "T",
+        "?"
+    ],
+    "build_version": "2022-12-18",
+    "purchased_purges": 1,
+    "victory": false,
+    "max_hp_per_floor": [
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72
+    ],
+    "card_choices": [
+        {
+            "not_picked": [
+                "SashWhip",
+                "Consecrate"
+            ],
+            "picked": "Prostrate",
+            "floor": 1
+        },
+        {
+            "not_picked": [
+                "SashWhip",
+                "WaveOfTheHand",
+                "Sanctity"
+            ],
+            "picked": "SKIP",
+            "floor": 3
+        },
+        {
+            "not_picked": [
+                "Wallop",
+                "WaveOfTheHand"
+            ],
+            "picked": "Pray",
+            "floor": 5
+        }
+    ],
+    "player_experience": 758057,
+    "relics_obtained": [
+        {
+            "floor": 9,
+            "key": "TungstenRod"
+        }
+    ],
+    "event_choices": [
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Grow",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Living Wall",
+            "floor": 2,
+            "gold_loss": 0,
+            "cards_upgraded": [
+                "Brilliance"
+            ]
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Success",
+            "damage_taken": 18,
+            "relics_obtained": [
+                "InkBottle"
+            ],
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Scrap Ooze",
+            "floor": 4,
+            "gold_loss": 0
+        },
+        {
+            "cards_removed": [
+                "Defend_P"
+            ],
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Card Removal",
+            "damage_taken": 7,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Golden Wing",
+            "floor": 7,
+            "gold_loss": 0
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Searched \u00271\u0027 times",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Dead Adventurer",
+            "floor": 10,
+            "gold_loss": 0
+        }
+    ],
+    "is_beta": false,
+    "boss_relics": [],
+    "items_purged_floors": [
+        8
+    ],
+    "is_endless": false,
+    "potions_floor_spawned": [],
+    "killed_by": "Gremlin Nob",
+    "ascension_level": 10
+}

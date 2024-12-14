@@ -1,0 +1,209 @@
+{
+  "gold_per_floor": [
+    115, 126, 139, 189, 199, 199, 231, 231, 281, 281, 310, 310, 338, 354, 354,
+    354
+  ],
+  "floor_reached": 16,
+  "playtime": 481,
+  "items_purged": [],
+  "score": 283,
+  "play_id": "6b76b8a5-fe5d-454b-b863-478e5246bd48",
+  "local_time": "20240412194753",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6, "key": "SMITH" },
+    { "floor": 10, "key": "REST" },
+    { "data": "Wallop", "floor": 15, "key": "SMITH" }
+  ],
+  "neow_cost": "TEN_PERCENT_HP_LOSS",
+  "seed_source_timestamp": 787017525289300,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Wallop+1",
+    "FearNoEvil",
+    "Indignation"
+  ],
+  "relics": [
+    "PureWater",
+    "HornCleat",
+    "Omamori",
+    "Art of War",
+    "Darkstone Periapt"
+  ],
+  "potions_floor_usage": [7, 11, 11],
+  "damage_taken": [
+    { "damage": 15, "enemies": "Cultist", "floor": 1, "turns": 6 },
+    { "damage": 6, "enemies": "Jaw Worm", "floor": 2, "turns": 3 },
+    { "damage": 8, "enemies": "2 Louse", "floor": 3, "turns": 2 },
+    { "damage": 0, "enemies": "2 Fungi Beasts", "floor": 5, "turns": 2 },
+    { "damage": 0, "enemies": "Gremlin Nob", "floor": 7, "turns": 3 },
+    { "damage": 6, "enemies": "Lagavulin", "floor": 11, "turns": 6 },
+    { "damage": 13, "enemies": "3 Sentries", "floor": 13, "turns": 5 },
+    { "damage": 4, "enemies": "Large Slime", "floor": 14, "turns": 4 },
+    { "damage": 36, "enemies": "Slime Boss", "floor": 16, "turns": 5 }
+  ],
+  "seed_played": "-4438868959742096056",
+  "potions_obtained": [
+    { "floor": 1, "key": "GamblersBrew" },
+    { "floor": 5, "key": "LiquidMemories" },
+    { "floor": 7, "key": "Swift Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "M",
+    "?",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "R",
+    "E",
+    "?",
+    "E",
+    "M",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [],
+  "campfire_rested": 1,
+  "item_purchase_floors": [],
+  "current_hp_per_floor": [
+    46, 40, 32, 32, 32, 32, 32, 32, 32, 50, 44, 37, 24, 20, 20, 0
+  ],
+  "gold": 354,
+  "neow_bonus": "REMOVE_TWO",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 2,
+  "win_rate": 0,
+  "timestamp": 1712976473,
+  "path_taken": [
+    "M",
+    "?",
+    "M",
+    "?",
+    "?",
+    "R",
+    "E",
+    "?",
+    "T",
+    "R",
+    "E",
+    "?",
+    "E",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [
+    62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["ForeignInfluence", "Crescendo"],
+      "picked": "Wallop",
+      "floor": 1
+    },
+    {
+      "not_picked": ["CarveReality", "Vengeance", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 2
+    },
+    {
+      "not_picked": ["EmptyBody", "ThirdEye", "Halt"],
+      "picked": "SKIP",
+      "floor": 3
+    },
+    {
+      "not_picked": ["ReachHeaven", "Swivel", "Halt"],
+      "picked": "SKIP",
+      "floor": 5
+    },
+    {
+      "not_picked": ["Protect", "ReachHeaven", "Conclude"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["BattleHymn", "ClearTheMind"],
+      "picked": "FearNoEvil",
+      "floor": 11
+    },
+    {
+      "not_picked": ["Wireheading", "FollowUp"],
+      "picked": "Indignation",
+      "floor": 13
+    },
+    {
+      "not_picked": ["WindmillStrike", "WheelKick", "Evaluate"],
+      "picked": "SKIP",
+      "floor": 14
+    }
+  ],
+  "player_experience": 948856,
+  "relics_obtained": [
+    { "floor": 7, "key": "HornCleat" },
+    { "floor": 9, "key": "Omamori" },
+    { "floor": 11, "key": "Art of War" },
+    { "floor": 13, "key": "Darkstone Periapt" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 50,
+      "player_choice": "Pray",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Shrine",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Shining Light",
+      "floor": 8,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Card Removal",
+      "damage_taken": 7,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Wing",
+      "floor": 12,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 5, 7],
+  "killed_by": "Slime Boss",
+  "ascension_level": 19
+}

@@ -1,0 +1,199 @@
+{
+  "gold_per_floor": [
+    112, 128, 128, 128, 148, 148, 165, 177, 248, 248, 266, 266, 266, 266, 266,
+    266
+  ],
+  "floor_reached": 16,
+  "playtime": 365,
+  "items_purged": [],
+  "score": 184,
+  "play_id": "25633aa1-fe5e-452b-a7cf-1584bc2dcb9a",
+  "local_time": "20241206214219",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6, "key": "SMITH" },
+    { "data": "TalkToTheHand", "floor": 10, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 13, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 15, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 433613495220200,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "MentalFortress",
+    "TalkToTheHand+1"
+  ],
+  "special_seed": 0,
+  "relics": ["PureWater", "Bottled Flame"],
+  "potions_floor_usage": [8, 16],
+  "damage_taken": [
+    { "damage": 4.0, "enemies": "Jaw Worm", "floor": 1.0, "turns": 4.0 },
+    { "damage": 8, "enemies": "2 Louse", "floor": 2, "turns": 2 },
+    { "damage": 8, "enemies": "Cultist", "floor": 5, "turns": 4 },
+    { "damage": 0, "enemies": "Large Slime", "floor": 7, "turns": 4 },
+    { "damage": 1, "enemies": "Looter", "floor": 8, "turns": 4 },
+    { "damage": 6, "enemies": "Gremlin Gang", "floor": 11, "turns": 4 },
+    { "damage": 48, "enemies": "Hexaghost", "floor": 16, "turns": 9 }
+  ],
+  "seed_played": "-2343665599956660727",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "BlessingOfTheForge" },
+    { "floor": 2, "key": "Regen Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "?",
+    "?",
+    "M",
+    "R",
+    "M",
+    "M",
+    "T",
+    "R",
+    "M",
+    "?",
+    "R",
+    "?",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [],
+  "campfire_rested": 0,
+  "item_purchase_floors": [],
+  "current_hp_per_floor": [
+    57, 49, 54, 54, 46, 46, 46, 57, 57, 57, 51, 44, 44, 44, 44, 0
+  ],
+  "gold": 266,
+  "neow_bonus": "THREE_CARDS",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 4,
+  "win_rate": 0,
+  "timestamp": 1733550139,
+  "path_taken": [
+    "M",
+    "M",
+    "?",
+    "?",
+    "?",
+    "R",
+    "M",
+    "M",
+    "T",
+    "R",
+    "M",
+    "?",
+    "R",
+    "?",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Wireheading", "LikeWater"],
+      "picked": "MentalFortress",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Evaluate", "SashWhip", "FlyingSleeves"],
+      "picked": "SKIP",
+      "floor": 2
+    },
+    {
+      "not_picked": ["PathToVictory", "CutThroughFate"],
+      "picked": "TalkToTheHand",
+      "floor": 5
+    },
+    {
+      "not_picked": ["EmptyBody", "InnerPeace", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["ForeignInfluence", "SashWhip", "Prostrate"],
+      "picked": "SKIP",
+      "floor": 8
+    },
+    {
+      "not_picked": ["Perseverance", "DeceiveReality", "Protect"],
+      "picked": "SKIP",
+      "floor": 11
+    }
+  ],
+  "player_experience": 1268925,
+  "relics_obtained": [{ "floor": 9, "key": "Bottled Flame" }],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Donut",
+      "damage_taken": 0,
+      "max_hp_gain": 5,
+      "max_hp_loss": 0,
+      "event_name": "Big Fish",
+      "floor": 3,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Purged",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Purifier",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Card Removal",
+      "damage_taken": 7,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Wing",
+      "floor": 12,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Liars Game",
+      "floor": 14,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 2],
+  "killed_by": "Hexaghost",
+  "ascension_level": 20
+}

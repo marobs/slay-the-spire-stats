@@ -1,0 +1,276 @@
+{
+  "gold_per_floor": [
+    110, 110, 110, 134, 159, 193, 193, 193, 193, 237, 237, 271, 285, 127, 127,
+    216, 216, 239, 239, 239, 239, 184, 184
+  ],
+  "floor_reached": 23,
+  "playtime": 515,
+  "items_purged": [],
+  "score": 394,
+  "play_id": "9001f4e7-c4c5-4ded-9236-365315b6a9e5",
+  "local_time": "20241020193711",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "floor": 8.0, "key": "REST" },
+    { "floor": 11.0, "key": "REST" },
+    { "data": "Eruption", "floor": 15.0, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 430408191401200,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Tantrum",
+    "Vault"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "HolyWater",
+    "NeowsBlessing",
+    "Bloody Idol",
+    "GoldenEye",
+    "Letter Opener",
+    "Toy Ornithopter",
+    "Odd Mushroom",
+    "Lee\u0027s Waffle"
+  ],
+  "potions_floor_usage": [20, 23],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "Small Slimes", "floor": 1.0, "turns": 1.0 },
+    { "damage": 0.0, "enemies": "Jaw Worm", "floor": 4.0, "turns": 1.0 },
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 5.0, "turns": 1.0 },
+    { "damage": 10.0, "enemies": "3 Sentries", "floor": 6.0, "turns": 6.0 },
+    { "damage": 27.0, "enemies": "Lagavulin", "floor": 10.0, "turns": 6.0 },
+    {
+      "damage": 33.0,
+      "enemies": "The Mushroom Lair",
+      "floor": 12.0,
+      "turns": 3.0
+    },
+    { "damage": 0.0, "enemies": "Large Slime", "floor": 13.0, "turns": 3.0 },
+    { "damage": 58.0, "enemies": "The Guardian", "floor": 16.0, "turns": 11.0 },
+    { "damage": 57, "enemies": "2 Thieves", "floor": 18, "turns": 5 },
+    { "damage": 0, "enemies": "Shell Parasite", "floor": 20, "turns": 1 },
+    { "damage": 30, "enemies": "Slavers", "floor": 23, "turns": 1 }
+  ],
+  "seed_played": "6492856183497618893",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "BottledMiracle" },
+    { "floor": 5.0, "key": "EntropicBrew" },
+    { "floor": 12.0, "key": "PowerPotion" },
+    { "floor": 13.0, "key": "BottledMiracle" },
+    { "floor": 18, "key": "SmokeBomb" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "E",
+    "?",
+    "R",
+    "T",
+    "E",
+    "R",
+    "?",
+    "M",
+    "$",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "?",
+    "$",
+    "E"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Lee\u0027s Waffle", "SteroidPotion"],
+  "campfire_rested": 2,
+  "item_purchase_floors": [14, 22],
+  "current_hp_per_floor": [
+    61, 38, 38, 38, 38, 28, 21, 41, 41, 14, 34, 1, 1, 75, 75, 17, 61, 4, 4, 9,
+    24, 24, 0
+  ],
+  "gold": 184,
+  "neow_bonus": "THREE_ENEMY_KILL",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1729478231,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "E",
+    "?",
+    "R",
+    "T",
+    "E",
+    "R",
+    "?",
+    "M",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M",
+    "?",
+    "$",
+    "E"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 75, 75, 75, 75, 75, 75,
+    75, 75, 75, 75
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Indignation", "PathToVictory", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["LikeWater", "Perseverance", "Prostrate"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["CutThroughFate", "Nirvana", "Vengeance"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["MasterReality", "CrushJoints"],
+      "picked": "Tantrum",
+      "floor": 6.0
+    },
+    {
+      "not_picked": ["Evaluate", "ThirdEye", "Weave"],
+      "picked": "SKIP",
+      "floor": 10.0
+    },
+    {
+      "not_picked": ["SandsOfTime", "Evaluate", "CrushJoints"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["SpiritShield", "Wish"],
+      "picked": "Vault",
+      "floor": 16.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "Consecrate", "Protect"],
+      "picked": "SKIP",
+      "floor": 18
+    }
+  ],
+  "player_experience": 1181416,
+  "relics_obtained": [
+    { "floor": 6.0, "key": "GoldenEye" },
+    { "floor": 9.0, "key": "Letter Opener" },
+    { "floor": 10.0, "key": "Toy Ornithopter" },
+    { "floor": 12.0, "key": "Odd Mushroom" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Idol",
+      "player_choice": "Take Damage",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 23.0,
+      "relics_obtained": ["Golden Idol"]
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Living Wall",
+      "player_choice": "Forget",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Wing",
+      "player_choice": "Card Removal",
+      "floor": 7.0,
+      "gold_loss": 0.0,
+      "damage_taken": 7.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Mushrooms",
+      "player_choice": "Fought Mushrooms",
+      "floor": 12.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Gave Idol",
+      "damage_taken": 0,
+      "relics_obtained": ["Bloody Idol"],
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Forgotten Altar",
+      "floor": 19,
+      "relics_lost": ["Golden Idol"],
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 15,
+      "gold_gain": 0,
+      "player_choice": "Heal",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Library",
+      "floor": 21,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Coffee Dripper", "Busted Crown"], "picked": "HolyWater" }
+  ],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 5, 12, 13, 18],
+  "killed_by": "Slavers",
+  "ascension_level": 20
+}

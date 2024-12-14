@@ -1,0 +1,442 @@
+{
+    "gold_per_floor": [
+        219,
+        235,
+        246,
+        33,
+        43,
+        375,
+        375,
+        388,
+        415,
+        415,
+        415,
+        433,
+        451,
+        71,
+        71,
+        171,
+        171,
+        181,
+        198,
+        198
+    ],
+    "floor_reached": 20,
+    "playtime": 860,
+    "items_purged": [
+        "Defend_P"
+    ],
+    "score": 205,
+    "play_id": "e815fdac-a165-4e5e-a1af-3730f59f2668",
+    "local_time": "20230903213308",
+    "is_ascension_mode": true,
+    "campfire_choices": [
+        {
+            "floor": 7,
+            "key": "REST"
+        },
+        {
+            "floor": 11,
+            "key": "REST"
+        },
+        {
+            "floor": 15,
+            "key": "REST"
+        }
+    ],
+    "neow_cost": "NONE",
+    "seed_source_timestamp": 2066579063090700,
+    "circlet_count": 0,
+    "master_deck": [
+        "Strike_P",
+        "Strike_P",
+        "Defend_P",
+        "Defend_P",
+        "Eruption",
+        "Vigilance",
+        "WindmillStrike+1",
+        "Scrawl",
+        "ThirdEye",
+        "FlurryOfBlows+1",
+        "FearNoEvil",
+        "MentalFortress",
+        "Blasphemy",
+        "Scrawl+1",
+        "Conclude+1",
+        "Alpha+1",
+        "CutThroughFate",
+        "ClearTheMind"
+    ],
+    "relics": [
+        "PureWater",
+        "Old Coin",
+        "Nunchaku",
+        "Happy Flower",
+        "Whetstone",
+        "Bag of Marbles",
+        "Astrolabe"
+    ],
+    "potions_floor_usage": [
+        6,
+        16
+    ],
+    "damage_taken": [
+        {
+            "damage": 0,
+            "enemies": "2 Louse",
+            "floor": 1,
+            "turns": 2
+        },
+        {
+            "damage": 0,
+            "enemies": "Cultist",
+            "floor": 2,
+            "turns": 2
+        },
+        {
+            "damage": 7,
+            "enemies": "Small Slimes",
+            "floor": 3,
+            "turns": 3
+        },
+        {
+            "damage": 19,
+            "enemies": "Red Slaver",
+            "floor": 5,
+            "turns": 4
+        },
+        {
+            "damage": 22,
+            "enemies": "3 Sentries",
+            "floor": 6,
+            "turns": 5
+        },
+        {
+            "damage": 28,
+            "enemies": "Gremlin Gang",
+            "floor": 8,
+            "turns": 5
+        },
+        {
+            "damage": 0,
+            "enemies": "2 Fungi Beasts",
+            "floor": 12,
+            "turns": 3
+        },
+        {
+            "damage": 6,
+            "enemies": "Looter",
+            "floor": 13,
+            "turns": 4
+        },
+        {
+            "damage": 44,
+            "enemies": "The Guardian",
+            "floor": 16,
+            "turns": 12
+        },
+        {
+            "damage": 38,
+            "enemies": "3 Byrds",
+            "floor": 18,
+            "turns": 4
+        },
+        {
+            "damage": 1,
+            "enemies": "Spheric Guardian",
+            "floor": 19,
+            "turns": 3
+        },
+        {
+            "damage": 37,
+            "enemies": "Chosen and Byrds",
+            "floor": 20,
+            "turns": 4
+        }
+    ],
+    "seed_played": "6609272442035481230",
+    "potions_obtained": [
+        {
+            "floor": 1,
+            "key": "BlessingOfTheForge"
+        },
+        {
+            "floor": 3,
+            "key": "SteroidPotion"
+        },
+        {
+            "floor": 6,
+            "key": "BlessingOfTheForge"
+        },
+        {
+            "floor": 12,
+            "key": "Block Potion"
+        },
+        {
+            "floor": 16,
+            "key": "AttackPotion"
+        },
+        {
+            "floor": 18,
+            "key": "Swift Potion"
+        }
+    ],
+    "is_trial": false,
+    "path_per_floor": [
+        "M",
+        "M",
+        "M",
+        "$",
+        "M",
+        "E",
+        "R",
+        "M",
+        "T",
+        "?",
+        "R",
+        "M",
+        "M",
+        "$",
+        "R",
+        "B",
+        null,
+        "M",
+        "M",
+        "M"
+    ],
+    "character_chosen": "WATCHER",
+    "items_purchased": [
+        "Scrawl",
+        "Whetstone",
+        "Bag of Marbles",
+        "MentalFortress"
+    ],
+    "campfire_rested": 3,
+    "item_purchase_floors": [
+        4,
+        14,
+        14,
+        14
+    ],
+    "current_hp_per_floor": [
+        72,
+        72,
+        65,
+        65,
+        46,
+        24,
+        45,
+        17,
+        17,
+        17,
+        38,
+        38,
+        32,
+        32,
+        53,
+        9,
+        72,
+        34,
+        33,
+        0
+    ],
+    "gold": 198,
+    "neow_bonus": "HUNDRED_GOLD",
+    "is_prod": false,
+    "is_daily": false,
+    "chose_seed": false,
+    "campfire_upgraded": 0,
+    "win_rate": 0,
+    "timestamp": 1693801988,
+    "path_taken": [
+        "M",
+        "M",
+        "M",
+        "$",
+        "M",
+        "E",
+        "R",
+        "M",
+        "T",
+        "?",
+        "R",
+        "M",
+        "M",
+        "$",
+        "R",
+        "BOSS",
+        "M",
+        "M",
+        "M"
+    ],
+    "build_version": "2022-12-18",
+    "purchased_purges": 1,
+    "victory": false,
+    "max_hp_per_floor": [
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72,
+        72
+    ],
+    "card_choices": [
+        {
+            "not_picked": [
+                "ReachHeaven",
+                "SashWhip"
+            ],
+            "picked": "WindmillStrike",
+            "floor": 1
+        },
+        {
+            "not_picked": [
+                "JustLucky",
+                "CrushJoints",
+                "Protect"
+            ],
+            "picked": "SKIP",
+            "floor": 2
+        },
+        {
+            "not_picked": [
+                "SandsOfTime",
+                "SashWhip",
+                "ForeignInfluence"
+            ],
+            "picked": "SKIP",
+            "floor": 3
+        },
+        {
+            "not_picked": [
+                "Sanctity",
+                "BowlingBash"
+            ],
+            "picked": "ThirdEye",
+            "floor": 5
+        },
+        {
+            "not_picked": [
+                "Pray",
+                "Prostrate",
+                "Nirvana"
+            ],
+            "picked": "SKIP",
+            "floor": 6
+        },
+        {
+            "not_picked": [
+                "Halt",
+                "Prostrate"
+            ],
+            "picked": "FlurryOfBlows",
+            "floor": 8
+        },
+        {
+            "not_picked": [
+                "MasterReality",
+                "Worship",
+                "SashWhip"
+            ],
+            "picked": "SKIP",
+            "floor": 12
+        },
+        {
+            "not_picked": [
+                "Crescendo",
+                "FollowUp"
+            ],
+            "picked": "FearNoEvil",
+            "floor": 13
+        },
+        {
+            "not_picked": [
+                "Ragnarok",
+                "DeusExMachina"
+            ],
+            "picked": "Blasphemy",
+            "floor": 16
+        },
+        {
+            "not_picked": [
+                "FlyingSleeves+1",
+                "Crescendo"
+            ],
+            "picked": "CutThroughFate",
+            "floor": 18
+        },
+        {
+            "not_picked": [
+                "Wish",
+                "Nirvana+1"
+            ],
+            "picked": "ClearTheMind",
+            "floor": 19
+        }
+    ],
+    "player_experience": 647257,
+    "relics_obtained": [
+        {
+            "floor": 6,
+            "key": "Old Coin"
+        },
+        {
+            "floor": 9,
+            "key": "Nunchaku"
+        }
+    ],
+    "event_choices": [
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Gave Potion",
+            "damage_taken": 0,
+            "relics_obtained": [
+                "Happy Flower"
+            ],
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "WeMeetAgain",
+            "floor": 10,
+            "gold_loss": 0
+        }
+    ],
+    "is_beta": false,
+    "boss_relics": [
+        {
+            "not_picked": [
+                "Calling Bell",
+                "Pandora\u0027s Box"
+            ],
+            "picked": "Astrolabe"
+        }
+    ],
+    "items_purged_floors": [
+        4
+    ],
+    "is_endless": false,
+    "potions_floor_spawned": [
+        1,
+        3,
+        6,
+        12,
+        16,
+        18
+    ],
+    "killed_by": "Chosen and Byrds",
+    "ascension_level": 3
+}

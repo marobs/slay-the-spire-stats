@@ -1,0 +1,235 @@
+{
+  "gold_per_floor": [
+    217, 243, 92, 62, 72, 72, 82, 94, 173, 173, 173, 190, 190, 202, 202, 281,
+    281, 301, 301, 316, 316
+  ],
+  "floor_reached": 21,
+  "playtime": 794,
+  "items_purged": ["Defend_P"],
+  "score": 346,
+  "play_id": "5de6ce07-b2df-4ed5-917f-34fe826fa24f",
+  "local_time": "20241128224426",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "TalkToTheHand", "floor": 11, "key": "SMITH" },
+    { "data": "Indignation", "floor": 15, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 89062632057800,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "TalkToTheHand+1",
+    "Indignation+1",
+    "EmptyFist",
+    "Scrawl"
+  ],
+  "special_seed": 0,
+  "relics": ["PureWater", "MealTicket", "Meat on the Bone", "SlaversCollar"],
+  "potions_floor_usage": [13, 16, 18, 21],
+  "damage_taken": [
+    { "damage": 7.0, "enemies": "Cultist", "floor": 1.0, "turns": 4.0 },
+    { "damage": 2.0, "enemies": "2 Louse", "floor": 5.0, "turns": 3.0 },
+    { "damage": 8, "enemies": "Small Slimes", "floor": 7, "turns": 3 },
+    { "damage": 9, "enemies": "3 Louse", "floor": 8, "turns": 3 },
+    { "damage": 0, "enemies": "2 Fungi Beasts", "floor": 12, "turns": 3 },
+    { "damage": 0, "enemies": "Exordium Thugs", "floor": 13, "turns": 1 },
+    { "damage": 1, "enemies": "Large Slime", "floor": 14, "turns": 4 },
+    { "damage": 34, "enemies": "The Guardian", "floor": 16, "turns": 9 },
+    { "damage": 29, "enemies": "3 Byrds", "floor": 18, "turns": 5 },
+    { "damage": 23, "enemies": "Spheric Guardian", "floor": 20, "turns": 4 },
+    { "damage": 40, "enemies": "Cultist and Chosen", "floor": 21, "turns": 5 }
+  ],
+  "seed_played": "-8022474243333491506",
+  "potions_obtained": [
+    { "floor": 4.0, "key": "SpeedPotion" },
+    { "floor": 4.0, "key": "SmokeBomb" },
+    { "floor": 5.0, "key": "Energy Potion" },
+    { "floor": 14, "key": "LiquidBronze" },
+    { "floor": 16, "key": "Energy Potion" },
+    { "floor": 18, "key": "Weak Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "T",
+    "$",
+    "?",
+    "M",
+    "R",
+    "M",
+    "M",
+    "T",
+    "?",
+    "R",
+    "M",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "M"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["TalkToTheHand"],
+  "campfire_rested": 0,
+  "item_purchase_floors": [3],
+  "current_hp_per_floor": [
+    54, 54, 68, 68, 66, 66, 58, 49, 49, 54, 54, 54, 54, 53, 53, 31, 63, 46, 46,
+    35, 0
+  ],
+  "gold": 316,
+  "neow_bonus": "HUNDRED_GOLD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 3,
+  "win_rate": 0,
+  "timestamp": 1732862666,
+  "path_taken": [
+    "M",
+    "?",
+    "$",
+    "?",
+    "?",
+    "R",
+    "M",
+    "M",
+    "T",
+    "?",
+    "R",
+    "M",
+    "M",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M",
+    "M"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 1,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73,
+    73, 73
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["Consecrate", "SignatureMove", "CrushJoints"],
+      "picked": "SKIP",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Conclude", "WaveOfTheHand", "WheelKick"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["Halt", "CutThroughFate", "FlyingSleeves"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["CutThroughFate", "Evaluate", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 8
+    },
+    {
+      "not_picked": ["WreathOfFlame", "WheelKick"],
+      "picked": "Indignation",
+      "floor": 12
+    },
+    {
+      "not_picked": ["BowlingBash", "Sanctity", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 14
+    },
+    {
+      "not_picked": ["BowlingBash", "Sanctity"],
+      "picked": "EmptyFist",
+      "floor": 14
+    },
+    {
+      "not_picked": ["DeusExMachina", "DevaForm"],
+      "picked": "Scrawl",
+      "floor": 16
+    },
+    {
+      "not_picked": ["PathToVictory", "SashWhip", "Worship"],
+      "picked": "SKIP",
+      "floor": 18
+    },
+    {
+      "not_picked": ["SashWhip", "ClearTheMind", "DeceiveReality"],
+      "picked": "SKIP",
+      "floor": 20
+    }
+  ],
+  "player_experience": 1250172,
+  "relics_obtained": [
+    { "floor": 2.0, "key": "MealTicket" },
+    { "floor": 9, "key": "Meat on the Bone" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "The Woman in Blue",
+      "player_choice": "Bought 2 Potions",
+      "floor": 4.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Donut",
+      "damage_taken": 0,
+      "max_hp_gain": 5,
+      "max_hp_loss": 0,
+      "event_name": "Big Fish",
+      "floor": 10,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Ghosts",
+      "floor": 19,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Philosopher\u0027s Stone", "Runic Dome"],
+      "picked": "SlaversCollar"
+    }
+  ],
+  "items_purged_floors": [3],
+  "is_endless": false,
+  "potions_floor_spawned": [5, 13, 14, 16, 18],
+  "killed_by": "Cultist and Chosen",
+  "ascension_level": 20
+}

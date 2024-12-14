@@ -1,0 +1,206 @@
+{
+  "gold_per_floor": [
+    114, 114, 133, 133, 133, 133, 158, 158, 181, 181, 211, 211, 222, 232, 232,
+    232
+  ],
+  "floor_reached": 16,
+  "playtime": 473,
+  "items_purged": [],
+  "score": 216,
+  "play_id": "35614401-128b-4950-b157-15be6bf5905a",
+  "local_time": "20241020190300",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "floor": 6, "key": "REST" },
+    { "floor": 8, "key": "REST" },
+    { "floor": 12, "key": "REST" },
+    { "data": "Devotion", "floor": 15, "key": "SMITH" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 428443572481400,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Devotion+1",
+    "Adaptation",
+    "FearNoEvil",
+    "Wallop"
+  ],
+  "relics": ["PureWater", "Nunchaku", "Tiny Chest", "Bottled Flame"],
+  "potions_floor_usage": [7, 11, 16],
+  "damage_taken": [
+    { "damage": 19, "enemies": "Jaw Worm", "floor": 1, "turns": 5 },
+    { "damage": 11, "enemies": "2 Louse", "floor": 3, "turns": 3 },
+    { "damage": 40, "enemies": "3 Sentries", "floor": 7, "turns": 7 },
+    { "damage": 8, "enemies": "Gremlin Nob", "floor": 11, "turns": 3 },
+    { "damage": 3, "enemies": "Small Slimes", "floor": 13, "turns": 4 },
+    { "damage": 3, "enemies": "2 Fungi Beasts", "floor": 14, "turns": 3 },
+    { "damage": 49, "enemies": "Hexaghost", "floor": 16, "turns": 9 }
+  ],
+  "seed_played": "7994614389662683230",
+  "potions_obtained": [
+    { "floor": 3, "key": "LiquidMemories" },
+    { "floor": 7, "key": "SteroidPotion" },
+    { "floor": 14, "key": "Weak Potion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "M",
+    "?",
+    "?",
+    "R",
+    "E",
+    "R",
+    "T",
+    "?",
+    "E",
+    "R",
+    "M",
+    "M",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [],
+  "campfire_rested": 3,
+  "item_purchase_floors": [],
+  "current_hp_per_floor": [
+    42, 47, 36, 36, 36, 57, 17, 38, 38, 38, 30, 51, 48, 45, 45, 0
+  ],
+  "gold": 232,
+  "neow_bonus": "ONE_RANDOM_RARE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1729476180,
+  "path_taken": [
+    "M",
+    "?",
+    "M",
+    "?",
+    "?",
+    "R",
+    "E",
+    "R",
+    "T",
+    "?",
+    "E",
+    "R",
+    "M",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["FlurryOfBlows", "ClearTheMind"],
+      "picked": "Adaptation",
+      "floor": 1
+    },
+    {
+      "not_picked": ["FollowUp", "WheelKick"],
+      "picked": "FearNoEvil",
+      "floor": 3
+    },
+    {
+      "not_picked": ["JustLucky", "FlurryOfBlows", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 7
+    },
+    {
+      "not_picked": ["CrushJoints", "Wireheading", "Collect"],
+      "picked": "SKIP",
+      "floor": 11
+    },
+    {
+      "not_picked": ["Evaluate", "CrushJoints", "Halt"],
+      "picked": "SKIP",
+      "floor": 13
+    },
+    {
+      "not_picked": ["Crescendo", "FlurryOfBlows"],
+      "picked": "Wallop",
+      "floor": 14
+    }
+  ],
+  "player_experience": 1180328,
+  "relics_obtained": [
+    { "floor": 7, "key": "Nunchaku" },
+    { "floor": 9, "key": "Tiny Chest" },
+    { "floor": 11, "key": "Bottled Flame" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Donut",
+      "damage_taken": 0,
+      "max_hp_gain": 5,
+      "max_hp_loss": 0,
+      "event_name": "Big Fish",
+      "floor": 2,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Golden Idol",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Grow",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Living Wall",
+      "floor": 5,
+      "gold_loss": 0,
+      "cards_upgraded": ["Eruption"]
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Liars Game",
+      "floor": 10,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [3, 7, 11, 14],
+  "killed_by": "Hexaghost",
+  "ascension_level": 20
+}

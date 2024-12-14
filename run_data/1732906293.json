@@ -1,0 +1,443 @@
+{
+  "gold_per_floor": [
+    119, 32, 48, 61, 74, 74, 94, 94, 394, 394, 430, 430, 463, 463, 463, 553,
+    553, 567, 215, 215, 230, 250, 294, 294, 312, 312, 331, 331, 63, 63, 63, 63,
+    156, 156, 171, 171, 187, 203, 217, 217, 250, 269, 269, 303, 303, 334, 52,
+    52, 52, 52, 52
+  ],
+  "floor_reached": 52,
+  "playtime": 1563,
+  "items_purged": ["Defend_P", "Defend_P", "Defend_P"],
+  "score": 2265,
+  "play_id": "942307f8-bb1d-44fa-87b0-e44e8c829aed",
+  "local_time": "20241129105133",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Tantrum", "floor": 6.0, "key": "SMITH" },
+    { "floor": 8.0, "key": "REST" },
+    { "data": "FearNoEvil", "floor": 12.0, "key": "SMITH" },
+    { "data": "Vault", "floor": 15.0, "key": "SMITH" },
+    { "data": "Wallop", "floor": 24, "key": "SMITH" },
+    { "data": "InnerPeace", "floor": 28, "key": "SMITH" },
+    { "floor": 32, "key": "REST" },
+    { "data": "Strike_P", "floor": 40, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 45, "key": "SMITH" },
+    { "floor": 49, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 131848420000599,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "FearNoEvil+1",
+    "Tantrum+1",
+    "Vault+1",
+    "Wallop+1",
+    "InnerPeace+1",
+    "Vault+1",
+    "Adaptation"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "Old Coin",
+    "Golden Idol",
+    "Shuriken",
+    "Gambling Chip",
+    "VioletLotus",
+    "HornCleat",
+    "MutagenicStrength",
+    "Mango",
+    "White Beast Statue",
+    "ClockworkSouvenir",
+    "SlaversCollar",
+    "Boot",
+    "Oddly Smooth Stone",
+    "Lantern",
+    "Whetstone",
+    "Ancient Tea Set"
+  ],
+  "potions_floor_usage": [22, 33, 35, 39, 50, 50],
+  "damage_taken": [
+    { "damage": 10.0, "enemies": "Small Slimes", "floor": 1.0, "turns": 2.0 },
+    { "damage": 1.0, "enemies": "2 Louse", "floor": 3.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Jaw Worm", "floor": 4.0, "turns": 2.0 },
+    { "damage": 1.0, "enemies": "Blue Slaver", "floor": 5.0, "turns": 3.0 },
+    { "damage": 11.0, "enemies": "Exordium Thugs", "floor": 7.0, "turns": 3.0 },
+    { "damage": 3.0, "enemies": "Gremlin Nob", "floor": 11.0, "turns": 3.0 },
+    { "damage": 3.0, "enemies": "Lagavulin", "floor": 13.0, "turns": 5.0 },
+    { "damage": 0.0, "enemies": "Slime Boss", "floor": 16.0, "turns": 5.0 },
+    { "damage": 0.0, "enemies": "Shell Parasite", "floor": 18.0, "turns": 2.0 },
+    { "damage": 9.0, "enemies": "2 Thieves", "floor": 21.0, "turns": 3.0 },
+    {
+      "damage": 0,
+      "enemies": "Shelled Parasite and Fungi",
+      "floor": 22,
+      "turns": 3
+    },
+    { "damage": 0, "enemies": "Gremlin Leader", "floor": 23, "turns": 3 },
+    { "damage": 2, "enemies": "Cultist and Chosen", "floor": 25, "turns": 4 },
+    { "damage": 0, "enemies": "Centurion and Healer", "floor": 27, "turns": 3 },
+    { "damage": 0, "enemies": "Champ", "floor": 33, "turns": 5 },
+    { "damage": 7, "enemies": "3 Darklings", "floor": 35, "turns": 6 },
+    { "damage": 0, "enemies": "Orb Walker", "floor": 37, "turns": 2 },
+    { "damage": 5, "enemies": "Writhing Mass", "floor": 38, "turns": 4 },
+    { "damage": 0, "enemies": "4 Shapes", "floor": 39, "turns": 4 },
+    { "damage": 0, "enemies": "Giant Head", "floor": 41, "turns": 4 },
+    { "damage": 4, "enemies": "Spire Growth", "floor": 42, "turns": 4 },
+    { "damage": 0, "enemies": "Reptomancer", "floor": 44, "turns": 3 },
+    { "damage": 1, "enemies": "Giant Head", "floor": 46, "turns": 6 },
+    { "damage": 19, "enemies": "Time Eater", "floor": 50, "turns": 6 },
+    { "damage": 30, "enemies": "Donu and Deca", "floor": 51, "turns": 4 }
+  ],
+  "seed_played": "3589676073329975228",
+  "potions_obtained": [
+    { "floor": 4.0, "key": "Block Potion" },
+    { "floor": 5.0, "key": "Block Potion" },
+    { "floor": 13.0, "key": "FearPotion" },
+    { "floor": 18.0, "key": "Ambrosia" },
+    { "floor": 22, "key": "PowerPotion" },
+    { "floor": 27, "key": "Block Potion" },
+    { "floor": 33, "key": "GamblersBrew" },
+    { "floor": 35, "key": "Explosive Potion" },
+    { "floor": 39, "key": "Energy Potion" },
+    { "floor": 41, "key": "LiquidMemories" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "$",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "E",
+    "R",
+    "E",
+    "?",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "?",
+    "M",
+    "M",
+    "E",
+    "R",
+    "M",
+    "T",
+    "M",
+    "R",
+    "$",
+    "?",
+    "$",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "E",
+    "M",
+    "T",
+    "E",
+    "R",
+    "E",
+    "$",
+    "$",
+    "R",
+    "B",
+    "B",
+    null
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": [
+    "Tantrum",
+    "HornCleat",
+    "ClockworkSouvenir",
+    "Ancient Tea Set"
+  ],
+  "campfire_rested": 3,
+  "item_purchase_floors": [2, 19, 29, 47],
+  "current_hp_per_floor": [
+    51, 51, 50, 50, 49, 49, 38, 58, 58, 35, 32, 32, 29, 51, 51, 51, 64, 64, 64,
+    64, 55, 55, 69, 69, 67, 67, 67, 67, 67, 67, 67, 82, 82, 82, 75, 75, 75, 70,
+    70, 70, 70, 66, 66, 66, 66, 65, 65, 65, 82, 63, 33
+  ],
+  "gold": 52,
+  "neow_bonus": "UPGRADE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 7,
+  "win_rate": 0,
+  "timestamp": 1732906293,
+  "path_taken": [
+    "M",
+    "$",
+    "M",
+    "M",
+    "M",
+    "R",
+    "M",
+    "R",
+    "T",
+    "?",
+    "E",
+    "R",
+    "E",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "?",
+    "M",
+    "M",
+    "E",
+    "R",
+    "M",
+    "T",
+    "M",
+    "R",
+    "$",
+    "?",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M",
+    "M",
+    "M",
+    "R",
+    "E",
+    "M",
+    "T",
+    "E",
+    "R",
+    "E",
+    "?",
+    "$",
+    "R",
+    "BOSS",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": true,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82,
+    82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82, 82
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["FlurryOfBlows", "PathToVictory"],
+      "picked": "FearNoEvil",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["PathToVictory", "Evaluate", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 3.0
+    },
+    {
+      "not_picked": ["Perseverance", "Crescendo", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["Prostrate", "FlyingSleeves", "Protect"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["EmptyBody", "BowlingBash", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["SandsOfTime", "PathToVictory"],
+      "picked": "Vault",
+      "floor": 11.0
+    },
+    {
+      "not_picked": ["CarveReality", "EmptyFist", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["Evaluate", "JustLucky", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Prostrate", "Nirvana", "ThirdEye"],
+      "picked": "SKIP",
+      "floor": 21.0
+    },
+    {
+      "not_picked": ["ThirdEye", "ConjureBlade"],
+      "picked": "Wallop",
+      "floor": 22
+    },
+    {
+      "not_picked": ["EmptyMind", "PathToVictory", "FlyingSleeves"],
+      "picked": "SKIP",
+      "floor": 23
+    },
+    {
+      "not_picked": ["CrushJoints", "EmptyMind+1"],
+      "picked": "InnerPeace",
+      "floor": 25
+    },
+    {
+      "not_picked": ["EmptyFist", "Crescendo", "EmptyMind"],
+      "picked": "SKIP",
+      "floor": 27
+    },
+    { "not_picked": ["Judgement", "Wish"], "picked": "Vault", "floor": 33 },
+    {
+      "not_picked": ["BowlingBash", "FlyingSleeves", "WreathOfFlame"],
+      "picked": "SKIP",
+      "floor": 35
+    },
+    {
+      "not_picked": ["ThirdEye", "Consecrate+1", "ClearTheMind"],
+      "picked": "SKIP",
+      "floor": 37
+    },
+    {
+      "not_picked": ["BowlingBash+1", "Evaluate", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 38
+    },
+    {
+      "not_picked": ["LikeWater", "JustLucky", "DevaForm"],
+      "picked": "SKIP",
+      "floor": 39
+    },
+    {
+      "not_picked": ["Prostrate", "DevaForm", "Protect"],
+      "picked": "SKIP",
+      "floor": 41
+    },
+    {
+      "not_picked": ["Worship+1", "FlyingSleeves+1", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 42
+    },
+    {
+      "not_picked": ["Sanctity", "Crescendo+1", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 44
+    },
+    {
+      "not_picked": ["BowlingBash", "Study"],
+      "picked": "Adaptation",
+      "floor": 46
+    }
+  ],
+  "player_experience": 1253889,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Old Coin" },
+    { "floor": 11.0, "key": "Shuriken" },
+    { "floor": 13.0, "key": "Gambling Chip" },
+    { "floor": 23, "key": "Mango" },
+    { "floor": 26, "key": "White Beast Statue" },
+    { "floor": 41, "key": "Boot" },
+    { "floor": 43, "key": "Oddly Smooth Stone" },
+    { "floor": 44, "key": "Lantern" },
+    { "floor": 46, "key": "Whetstone" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Golden Idol",
+      "player_choice": "Take Damage",
+      "floor": 10.0,
+      "gold_loss": 0.0,
+      "damage_taken": 23.0,
+      "relics_obtained": ["Golden Idol"]
+    },
+    {
+      "damage_healed": 22.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Big Fish",
+      "player_choice": "Banana",
+      "floor": 14.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Drug Dealer",
+      "player_choice": "Inject Mutagens",
+      "floor": 20.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "relics_obtained": ["MutagenicStrength"]
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Mausoleum",
+      "floor": 30,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Upgraded",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Upgrade Shrine",
+      "floor": 36,
+      "gold_loss": 0,
+      "cards_upgraded": ["Vault"]
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["SacredBark", "Astrolabe"], "picked": "VioletLotus" },
+    {
+      "not_picked": ["Philosopher\u0027s Stone", "Cursed Key"],
+      "picked": "SlaversCollar"
+    }
+  ],
+  "items_purged_floors": [19, 29, 47],
+  "is_endless": false,
+  "potions_floor_spawned": [
+    4, 5, 13, 18, 22, 27, 33, 35, 37, 38, 39, 41, 42, 44, 46
+  ],
+  "ascension_level": 20
+}

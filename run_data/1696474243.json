@@ -1,0 +1,569 @@
+{
+    "gold_per_floor": [
+        114,
+        64,
+        139,
+        60,
+        70,
+        103,
+        103,
+        123,
+        123,
+        123,
+        134,
+        169,
+        169,
+        94,
+        94,
+        195,
+        195,
+        213,
+        213,
+        213,
+        225,
+        238,
+        238,
+        249,
+        102,
+        128,
+        128,
+        147,
+        147
+    ],
+    "floor_reached": 29,
+    "playtime": 1006,
+    "items_purged": [
+        "Strike_P",
+        "Bite"
+    ],
+    "score": 316,
+    "play_id": "2dbaad3d-6700-4475-82f2-8a4392fd8140",
+    "local_time": "20231004195043",
+    "is_ascension_mode": true,
+    "campfire_choices": [
+        {
+            "data": "Eruption",
+            "floor": 7,
+            "key": "SMITH"
+        },
+        {
+            "data": "MentalFortress",
+            "floor": 10,
+            "key": "SMITH"
+        },
+        {
+            "floor": 15,
+            "key": "REST"
+        },
+        {
+            "data": "Wallop",
+            "floor": 23,
+            "key": "SMITH"
+        },
+        {
+            "data": "FlurryOfBlows",
+            "floor": 27,
+            "key": "SMITH"
+        }
+    ],
+    "neow_cost": "TEN_PERCENT_HP_LOSS",
+    "seed_source_timestamp": 1426537973997000,
+    "circlet_count": 0,
+    "master_deck": [
+        "Defend_P",
+        "Defend_P",
+        "Defend_P",
+        "Eruption+1",
+        "Vigilance",
+        "MentalFortress+1",
+        "Wallop+1",
+        "ClearTheMind",
+        "Crescendo",
+        "Blasphemy",
+        "Bite",
+        "Bite",
+        "Bite",
+        "Bite",
+        "SpiritShield",
+        "FlurryOfBlows+1",
+        "MentalFortress"
+    ],
+    "relics": [
+        "PureWater",
+        "Mango",
+        "Yang",
+        "Darkstone Periapt",
+        "Bag of Marbles",
+        "VioletLotus",
+        "Damaru"
+    ],
+    "potions_floor_usage": [
+        12,
+        16,
+        18,
+        21,
+        29
+    ],
+    "damage_taken": [
+        {
+            "damage": 0,
+            "enemies": "Jaw Worm",
+            "floor": 1,
+            "turns": 5
+        },
+        {
+            "damage": 0,
+            "enemies": "Small Slimes",
+            "floor": 5,
+            "turns": 3
+        },
+        {
+            "damage": 15,
+            "enemies": "Lagavulin",
+            "floor": 6,
+            "turns": 7
+        },
+        {
+            "damage": 0,
+            "enemies": "Cultist",
+            "floor": 8,
+            "turns": 2
+        },
+        {
+            "damage": 7,
+            "enemies": "2 Fungi Beasts",
+            "floor": 11,
+            "turns": 3
+        },
+        {
+            "damage": 21,
+            "enemies": "3 Sentries",
+            "floor": 12,
+            "turns": 8
+        },
+        {
+            "damage": 28,
+            "enemies": "Slime Boss",
+            "floor": 16,
+            "turns": 7
+        },
+        {
+            "damage": 3,
+            "enemies": "Spheric Guardian",
+            "floor": 18,
+            "turns": 3
+        },
+        {
+            "damage": 7,
+            "enemies": "3 Byrds",
+            "floor": 21,
+            "turns": 6
+        },
+        {
+            "damage": 24,
+            "enemies": "Snecko",
+            "floor": 22,
+            "turns": 4
+        },
+        {
+            "damage": 0,
+            "enemies": "Snake Plant",
+            "floor": 24,
+            "turns": 2
+        },
+        {
+            "damage": 6,
+            "enemies": "Centurion and Healer",
+            "floor": 28,
+            "turns": 4
+        },
+        {
+            "damage": 54,
+            "enemies": "Book of Stabbing",
+            "floor": 29,
+            "turns": 4
+        }
+    ],
+    "seed_played": "-2843938351375409968",
+    "potions_obtained": [
+        {
+            "floor": 8,
+            "key": "AttackPotion"
+        },
+        {
+            "floor": 11,
+            "key": "AttackPotion"
+        },
+        {
+            "floor": 16,
+            "key": "SkillPotion"
+        },
+        {
+            "floor": 18,
+            "key": "LiquidMemories"
+        },
+        {
+            "floor": 22,
+            "key": "Fire Potion"
+        }
+    ],
+    "is_trial": false,
+    "path_per_floor": [
+        "M",
+        "?",
+        "?",
+        "$",
+        "M",
+        "E",
+        "R",
+        "M",
+        "T",
+        "R",
+        "M",
+        "E",
+        "?",
+        "$",
+        "R",
+        "B",
+        null,
+        "M",
+        "?",
+        "?",
+        "M",
+        "M",
+        "R",
+        "M",
+        "$",
+        "T",
+        "R",
+        "M",
+        "E"
+    ],
+    "character_chosen": "WATCHER",
+    "items_purchased": [
+        "Wallop",
+        "FlurryOfBlows"
+    ],
+    "campfire_rested": 1,
+    "item_purchase_floors": [
+        4,
+        25
+    ],
+    "current_hp_per_floor": [
+        79,
+        79,
+        72,
+        72,
+        72,
+        57,
+        57,
+        57,
+        57,
+        57,
+        50,
+        29,
+        29,
+        29,
+        52,
+        24,
+        65,
+        62,
+        55,
+        55,
+        55,
+        37,
+        37,
+        41,
+        41,
+        41,
+        41,
+        45,
+        0
+    ],
+    "gold": 147,
+    "neow_bonus": "ONE_RARE_RELIC",
+    "is_prod": false,
+    "is_daily": false,
+    "chose_seed": false,
+    "campfire_upgraded": 4,
+    "win_rate": 0,
+    "timestamp": 1696474243,
+    "path_taken": [
+        "M",
+        "?",
+        "?",
+        "$",
+        "M",
+        "E",
+        "R",
+        "M",
+        "T",
+        "R",
+        "?",
+        "E",
+        "?",
+        "$",
+        "R",
+        "BOSS",
+        "M",
+        "?",
+        "?",
+        "M",
+        "M",
+        "R",
+        "M",
+        "$",
+        "T",
+        "R",
+        "M",
+        "E"
+    ],
+    "build_version": "2022-12-18",
+    "purchased_purges": 2,
+    "victory": false,
+    "max_hp_per_floor": [
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+    ],
+    "card_choices": [
+        {
+            "not_picked": [
+                "FlurryOfBlows",
+                "Pray"
+            ],
+            "picked": "MentalFortress",
+            "floor": 1
+        },
+        {
+            "not_picked": [
+                "FollowUp",
+                "Weave",
+                "WheelKick"
+            ],
+            "picked": "SKIP",
+            "floor": 5
+        },
+        {
+            "not_picked": [
+                "SignatureMove",
+                "ReachHeaven"
+            ],
+            "picked": "ClearTheMind",
+            "floor": 6
+        },
+        {
+            "not_picked": [
+                "Consecrate",
+                "Prostrate",
+                "PathToVictory"
+            ],
+            "picked": "SKIP",
+            "floor": 8
+        },
+        {
+            "not_picked": [
+                "EmptyBody",
+                "Prostrate"
+            ],
+            "picked": "Crescendo",
+            "floor": 11
+        },
+        {
+            "not_picked": [
+                "CarveReality",
+                "Consecrate",
+                "Evaluate"
+            ],
+            "picked": "SKIP",
+            "floor": 12
+        },
+        {
+            "not_picked": [
+                "Vault",
+                "DevaForm"
+            ],
+            "picked": "Blasphemy",
+            "floor": 16
+        },
+        {
+            "not_picked": [
+                "BowlingBash",
+                "Prostrate",
+                "Swivel"
+            ],
+            "picked": "SKIP",
+            "floor": 18
+        },
+        {
+            "not_picked": [
+                "SashWhip",
+                "EmptyFist",
+                "ThirdEye"
+            ],
+            "picked": "SKIP",
+            "floor": 21
+        },
+        {
+            "not_picked": [
+                "FlyingSleeves",
+                "EmptyBody",
+                "ThirdEye+1"
+            ],
+            "picked": "SKIP",
+            "floor": 22
+        },
+        {
+            "not_picked": [
+                "FlyingSleeves",
+                "FollowUp+1"
+            ],
+            "picked": "SpiritShield",
+            "floor": 24
+        },
+        {
+            "not_picked": [
+                "Evaluate",
+                "Protect"
+            ],
+            "picked": "MentalFortress",
+            "floor": 28
+        }
+    ],
+    "player_experience": 700675,
+    "relics_obtained": [
+        {
+            "floor": 6,
+            "key": "Yang"
+        },
+        {
+            "floor": 9,
+            "key": "Darkstone Periapt"
+        },
+        {
+            "floor": 12,
+            "key": "Bag of Marbles"
+        },
+        {
+            "floor": 26,
+            "key": "Damaru"
+        }
+    ],
+    "event_choices": [
+        {
+            "cards_removed": [
+                "Defend_P"
+            ],
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Card Removal",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "The Cleric",
+            "floor": 2,
+            "gold_loss": 50
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 75,
+            "player_choice": "Touch",
+            "damage_taken": 7,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "FaceTrader",
+            "floor": 3,
+            "gold_loss": 0
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Fled",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "Scrap Ooze",
+            "floor": 13,
+            "gold_loss": 0
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Became a vampire",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 24,
+            "event_name": "Vampires",
+            "floor": 19,
+            "gold_loss": 0,
+            "cards_obtained": [
+                "Bite",
+                "Bite",
+                "Bite",
+                "Bite",
+                "Bite"
+            ]
+        },
+        {
+            "damage_healed": 0,
+            "gold_gain": 0,
+            "player_choice": "Ignored",
+            "damage_taken": 0,
+            "max_hp_gain": 0,
+            "max_hp_loss": 0,
+            "event_name": "The Mausoleum",
+            "floor": 20,
+            "gold_loss": 0
+        }
+    ],
+    "is_beta": false,
+    "boss_relics": [
+        {
+            "not_picked": [
+                "Astrolabe",
+                "SlaversCollar"
+            ],
+            "picked": "VioletLotus"
+        }
+    ],
+    "items_purged_floors": [
+        14,
+        25
+    ],
+    "is_endless": false,
+    "potions_floor_spawned": [
+        8,
+        11,
+        16,
+        18,
+        22
+    ],
+    "killed_by": "Book of Stabbing",
+    "ascension_level": 5
+}

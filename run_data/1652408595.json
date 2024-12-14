@@ -1,0 +1,82 @@
+{
+    "gold_per_floor": [
+        109
+    ],
+    "floor_reached": 1,
+    "playtime": 114,
+    "items_purged": [],
+    "score": 7,
+    "play_id": "938fbe93-4d1c-4ba1-9c13-acac6d5ab36c",
+    "local_time": "20220512192315",
+    "is_ascension_mode": false,
+    "campfire_choices": [],
+    "neow_cost": "NONE",
+    "seed_source_timestamp": 0,
+    "circlet_count": 0,
+    "master_deck": [
+        "Strike_P",
+        "Strike_P",
+        "Strike_P",
+        "Strike_P",
+        "Defend_P",
+        "Defend_P",
+        "Defend_P",
+        "Defend_P",
+        "Eruption",
+        "Vigilance"
+    ],
+    "special_seed": 0,
+    "relics": [
+        "PureWater"
+    ],
+    "potions_floor_usage": [],
+    "damage_taken": [
+        {
+            "damage": 1.0,
+            "enemies": "Jaw Worm",
+            "floor": 1.0,
+            "turns": 5.0
+        }
+    ],
+    "seed_played": "-8454605880948670449",
+    "potions_obtained": [],
+    "is_trial": false,
+    "path_per_floor": [
+        "M"
+    ],
+    "character_chosen": "WATCHER",
+    "items_purchased": [],
+    "campfire_rested": 0,
+    "item_purchase_floors": [],
+    "current_hp_per_floor": [
+        78
+    ],
+    "gold": 109,
+    "neow_bonus": "TEN_PERCENT_HP_BONUS",
+    "is_prod": false,
+    "is_daily": false,
+    "chose_seed": false,
+    "campfire_upgraded": 0,
+    "win_rate": 0.0,
+    "timestamp": 1652408595,
+    "path_taken": [
+        "M"
+    ],
+    "build_version": "2022-03-07",
+    "purchased_purges": 0,
+    "victory": false,
+    "max_hp_per_floor": [
+        79
+    ],
+    "card_choices": [],
+    "player_experience": 58151,
+    "relics_obtained": [],
+    "event_choices": [],
+    "is_beta": false,
+    "boss_relics": [],
+    "items_purged_floors": [],
+    "is_endless": false,
+    "potions_floor_spawned": [],
+    "killed_by": "Jaw Worm",
+    "ascension_level": 0
+}

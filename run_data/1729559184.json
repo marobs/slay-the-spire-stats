@@ -1,0 +1,267 @@
+{
+  "gold_per_floor": [
+    124, 124, 124, 142, 155, 155, 155, 155, 155, 189, 189, 214, 214, 214, 214,
+    289, 289, 299, 319, 319, 159, 159
+  ],
+  "floor_reached": 22,
+  "playtime": 622,
+  "items_purged": ["Defend_P"],
+  "score": 360,
+  "play_id": "c4104312-9f1e-4364-8e89-14e26a3a8833",
+  "local_time": "20241021180624",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "floor": 8.0, "key": "REST" },
+    { "floor": 13.0, "key": "REST" },
+    { "floor": 15.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 511091671434800,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P+1",
+    "Strike_P+1",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Adaptation"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "HolyWater",
+    "CeramicFish",
+    "Juzu Bracelet",
+    "Vajra",
+    "PreservedInsect",
+    "Odd Mushroom",
+    "Singing Bowl"
+  ],
+  "potions_floor_usage": [22],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 1.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "Cultist", "floor": 4.0, "turns": 2.0 },
+    { "damage": 0.0, "enemies": "Small Slimes", "floor": 5.0, "turns": 2.0 },
+    { "damage": 35.0, "enemies": "3 Sentries", "floor": 10.0, "turns": 4.0 },
+    {
+      "damage": 12.0,
+      "enemies": "The Mushroom Lair",
+      "floor": 12.0,
+      "turns": 3.0
+    },
+    { "damage": 31.0, "enemies": "Slime Boss", "floor": 16.0, "turns": 8.0 },
+    { "damage": 21.0, "enemies": "2 Thieves", "floor": 18.0, "turns": 4.0 },
+    {
+      "damage": 14.0,
+      "enemies": "Shell Parasite",
+      "floor": 19.0,
+      "turns": 3.0
+    },
+    { "damage": 35, "enemies": "Chosen and Byrds", "floor": 22, "turns": 6 }
+  ],
+  "seed_played": "8210264571650560333",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "PowerPotion" },
+    { "floor": 4.0, "key": "Swift Potion" },
+    { "floor": 16.0, "key": "AttackPotion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "R",
+    "?",
+    "R",
+    "T",
+    "E",
+    "?",
+    "?",
+    "R",
+    "T",
+    "R",
+    "B",
+    null,
+    "M",
+    "M",
+    "?",
+    "$",
+    "M"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["LiquidMemories"],
+  "campfire_rested": 3,
+  "item_purchase_floors": [21],
+  "current_hp_per_floor": [
+    61, 41, 41, 41, 41, 41, 41, 61, 61, 26, 26, 14, 34, 34, 54, 25, 59, 40, 28,
+    28, 28, 0
+  ],
+  "gold": 159,
+  "neow_bonus": "RANDOM_COMMON_RELIC",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1729559184,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "R",
+    "?",
+    "R",
+    "T",
+    "E",
+    "?",
+    "?",
+    "R",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "M",
+    "?",
+    "$",
+    "M"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 1,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 70, 70, 72, 74,
+    74, 74, 74
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["DeceiveReality", "BowlingBash"],
+      "picked": "Adaptation",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Vengeance", "Consecrate", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["Meditate", "ThirdEye", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["EmptyFist", "FlyingSleeves", "Protect"],
+      "picked": "SKIP",
+      "floor": 10.0
+    },
+    {
+      "not_picked": ["Blasphemy", "LessonLearned", "Devotion"],
+      "picked": "Singing Bowl",
+      "floor": 16.0
+    },
+    {
+      "not_picked": ["Consecrate", "Perseverance+1", "FollowUp"],
+      "picked": "Singing Bowl",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Vengeance", "ThirdEye", "ClearTheMind+1"],
+      "picked": "Singing Bowl",
+      "floor": 19.0
+    }
+  ],
+  "player_experience": 1182531,
+  "relics_obtained": [
+    { "floor": 9.0, "key": "Vajra" },
+    { "floor": 10.0, "key": "PreservedInsect" },
+    { "floor": 12.0, "key": "Odd Mushroom" },
+    { "floor": 14.0, "key": "Singing Bowl" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Shining Light",
+      "player_choice": "Entered Light",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 20.0,
+      "cards_upgraded": ["Strike_P", "Strike_P"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "WeMeetAgain",
+      "player_choice": "Gave Potion",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "relics_obtained": ["Juzu Bracelet"]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Dead Adventurer",
+      "player_choice": "Searched \u00270\u0027 times",
+      "floor": 7.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Living Wall",
+      "player_choice": "Forget",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Mushrooms",
+      "player_choice": "Fought Mushrooms",
+      "floor": 12.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Cursed Tome",
+      "player_choice": "Ignored",
+      "floor": 20.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["Busted Crown", "Runic Pyramid"], "picked": "HolyWater" }
+  ],
+  "items_purged_floors": [21],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 4, 16],
+  "killed_by": "Chosen and Byrds",
+  "ascension_level": 20
+}

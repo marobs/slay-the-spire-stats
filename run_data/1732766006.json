@@ -1,0 +1,257 @@
+{
+  "gold_per_floor": [
+    110, 185, 185, 200, 220, 220, 239, 256, 338, 338, 338, 354, 364, 21, 21,
+    100, 100, 118, 118, 136, 136
+  ],
+  "floor_reached": 21,
+  "playtime": 701,
+  "items_purged": [],
+  "score": 346,
+  "play_id": "52f1a805-c22d-4ae9-a771-4102a0eccfee",
+  "local_time": "20241127195326",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "FearNoEvil", "floor": 10.0, "key": "SMITH" },
+    { "floor": 15.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 1288139476769200,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Indignation",
+    "FearNoEvil+1",
+    "Study",
+    "SandsOfTime",
+    "Adaptation",
+    "SignatureMove+1",
+    "Fasting2+1",
+    "Worship+1"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "Eternal Feather",
+    "Singing Bowl",
+    "Astrolabe",
+    "MutagenicStrength"
+  ],
+  "potions_floor_usage": [20],
+  "damage_taken": [
+    { "damage": 2.0, "enemies": "Jaw Worm", "floor": 1.0, "turns": 4.0 },
+    { "damage": 7.0, "enemies": "2 Louse", "floor": 4.0, "turns": 2.0 },
+    { "damage": 7.0, "enemies": "Cultist", "floor": 5.0, "turns": 3.0 },
+    { "damage": 0.0, "enemies": "2 Fungi Beasts", "floor": 7.0, "turns": 2.0 },
+    { "damage": 4.0, "enemies": "Exordium Thugs", "floor": 8.0, "turns": 3.0 },
+    { "damage": 3.0, "enemies": "Blue Slaver", "floor": 12.0, "turns": 3.0 },
+    { "damage": 3.0, "enemies": "2 Fungi Beasts", "floor": 13.0, "turns": 3.0 },
+    { "damage": 23.0, "enemies": "Hexaghost", "floor": 16.0, "turns": 7.0 },
+    { "damage": 45, "enemies": "3 Byrds", "floor": 18, "turns": 4 },
+    { "damage": 0, "enemies": "Chosen", "floor": 20, "turns": 1 },
+    { "damage": 32, "enemies": "Masked Bandits", "floor": 21, "turns": 2 }
+  ],
+  "seed_played": "-3646472130634936345",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "DistilledChaos" },
+    { "floor": 7.0, "key": "LiquidBronze" },
+    { "floor": 18, "key": "SneckoOil" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "R",
+    "M",
+    "M",
+    "T",
+    "R",
+    "?",
+    "M",
+    "M",
+    "$",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "?"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Singing Bowl", "Adaptation"],
+  "campfire_rested": 1,
+  "item_purchase_floors": [14, 14],
+  "current_hp_per_floor": [
+    59, 48, 48, 41, 34, 34, 34, 30, 30, 36, 36, 33, 30, 30, 56, 35, 61, 18, 18,
+    20, 0
+  ],
+  "gold": 136,
+  "neow_bonus": "REMOVE_CARD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 2,
+  "win_rate": 0,
+  "timestamp": 1732766006,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "R",
+    "M",
+    "?",
+    "T",
+    "R",
+    "?",
+    "M",
+    "M",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M",
+    "?"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 70, 70, 72, 72,
+    74, 74
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["ClearTheMind", "EmptyFist"],
+      "picked": "Indignation",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["Protect", "Consecrate", "FollowUp"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["Prostrate", "Meditate", "Protect"],
+      "picked": "SKIP",
+      "floor": 5.0
+    },
+    {
+      "not_picked": ["Crescendo", "Evaluate"],
+      "picked": "FearNoEvil",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["Sanctity", "Evaluate", "CutThroughFate"],
+      "picked": "SKIP",
+      "floor": 8.0
+    },
+    {
+      "not_picked": ["EmptyFist", "FollowUp", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": ["CarveReality", "ClearTheMind"],
+      "picked": "SandsOfTime",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["Ragnarok", "Alpha", "Establishment"],
+      "picked": "Singing Bowl",
+      "floor": 16.0
+    },
+    {
+      "not_picked": ["ClearTheMind", "CrushJoints", "PathToVictory"],
+      "picked": "Singing Bowl",
+      "floor": 18
+    },
+    {
+      "not_picked": ["Consecrate", "FollowUp", "Evaluate"],
+      "picked": "Singing Bowl",
+      "floor": 20
+    }
+  ],
+  "player_experience": 1244252,
+  "relics_obtained": [{ "floor": 9.0, "key": "Eternal Feather" }],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 75.0,
+      "event_name": "World of Goop",
+      "player_choice": "Gather Gold",
+      "floor": 2.0,
+      "gold_loss": 0.0,
+      "damage_taken": 11.0
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Bonfire Elementals",
+      "player_choice": "Offered Basic",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "cards_transformed": ["Strike_P"],
+      "event_name": "Transmorgrifier",
+      "player_choice": "Transformed",
+      "floor": 11.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_obtained": ["Study"]
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Inject Mutagens",
+      "damage_taken": 0,
+      "relics_obtained": ["MutagenicStrength"],
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Drug Dealer",
+      "floor": 19,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Fought Bandits",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Masked Bandits",
+      "floor": 21,
+      "gold_loss": 0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    { "not_picked": ["SlaversCollar", "Sozu"], "picked": "Astrolabe" }
+  ],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 7, 8, 18],
+  "killed_by": "Masked Bandits",
+  "ascension_level": 20
+}

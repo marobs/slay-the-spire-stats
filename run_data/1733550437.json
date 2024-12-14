@@ -1,0 +1,163 @@
+{
+  "gold_per_floor": [10, 29, 29, 43, 60, 60, 90, 90, 90, 106, 133, 49, 49, 49],
+  "floor_reached": 14,
+  "playtime": 289,
+  "items_purged": [],
+  "score": 180,
+  "play_id": "b218f43f-bebd-42e5-9565-7952a7d9581e",
+  "local_time": "20241206214717",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6, "key": "SMITH" },
+    { "floor": 8, "key": "REST" }
+  ],
+  "neow_cost": "NO_GOLD",
+  "seed_source_timestamp": 434009404381300,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P",
+    "Defend_P",
+    "Eruption+1",
+    "Vigilance",
+    "Adaptation",
+    "SignatureMove",
+    "FearNoEvil+1"
+  ],
+  "relics": ["PureWater", "Molten Egg 2", "Sundial"],
+  "potions_floor_usage": [11],
+  "damage_taken": [
+    { "damage": 0, "enemies": "Cultist", "floor": 1, "turns": 3 },
+    { "damage": 27, "enemies": "Small Slimes", "floor": 2, "turns": 4 },
+    { "damage": 12, "enemies": "Jaw Worm", "floor": 4, "turns": 2 },
+    { "damage": 10, "enemies": "Red Slaver", "floor": 5, "turns": 4 },
+    { "damage": 3, "enemies": "Blue Slaver", "floor": 10, "turns": 2 },
+    { "damage": 22, "enemies": "Lagavulin", "floor": 11, "turns": 6 },
+    { "damage": 10, "enemies": "Gremlin Gang", "floor": 14, "turns": 1 }
+  ],
+  "seed_played": "-6678208639707171592",
+  "potions_obtained": [{ "floor": 10, "key": "Strength Potion" }],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "M",
+    "$",
+    "M",
+    "M",
+    "R",
+    "?",
+    "R",
+    "T",
+    "M",
+    "E",
+    "$",
+    "?",
+    "M"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["FearNoEvil+1"],
+  "campfire_rested": 1,
+  "item_purchase_floors": [12],
+  "current_hp_per_floor": [61, 34, 34, 22, 12, 12, 12, 32, 32, 29, 7, 7, 7, 0],
+  "gold": 49,
+  "neow_bonus": "TRANSFORM_TWO_CARDS",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 1,
+  "win_rate": 0,
+  "timestamp": 1733550437,
+  "path_taken": [
+    "M",
+    "M",
+    "?",
+    "M",
+    "?",
+    "R",
+    "?",
+    "R",
+    "T",
+    "M",
+    "E",
+    "$",
+    "?",
+    "?"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 0,
+  "victory": false,
+  "max_hp_per_floor": [68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68],
+  "card_choices": [
+    {
+      "not_picked": ["PathToVictory", "JustLucky", "Protect"],
+      "picked": "SKIP",
+      "floor": 1
+    },
+    {
+      "not_picked": ["Crescendo", "EmptyFist", "DeceiveReality"],
+      "picked": "SKIP",
+      "floor": 2
+    },
+    {
+      "not_picked": ["ThirdEye", "EmptyBody", "SignatureMove"],
+      "picked": "SKIP",
+      "floor": 4
+    },
+    {
+      "not_picked": ["Vengeance", "Study", "JustLucky"],
+      "picked": "SKIP",
+      "floor": 5
+    },
+    {
+      "not_picked": ["Halt", "Evaluate", "MasterReality"],
+      "picked": "SKIP",
+      "floor": 10
+    },
+    {
+      "not_picked": ["Protect", "Crescendo", "PathToVictory"],
+      "picked": "SKIP",
+      "floor": 11
+    }
+  ],
+  "player_experience": 1269290,
+  "relics_obtained": [
+    { "floor": 9, "key": "Molten Egg 2" },
+    { "floor": 11, "key": "Sundial" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 30,
+      "player_choice": "Searched \u00271\u0027 times",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Dead Adventurer",
+      "floor": 7,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "0 cards matched",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Match and Keep!",
+      "floor": 13,
+      "gold_loss": 0,
+      "cards_obtained": []
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [],
+  "items_purged_floors": [],
+  "is_endless": false,
+  "potions_floor_spawned": [10],
+  "killed_by": "Gremlin Gang",
+  "ascension_level": 20
+}

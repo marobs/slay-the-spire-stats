@@ -1,0 +1,326 @@
+{
+  "gold_per_floor": [
+    209, 134, 134, 147, 3, 3, 17, 17, 17, 17, 28, 45, 57, 57, 57, 128, 128, 138,
+    13, 13, 13, 38, 38, 52, 52, 52, 83, 92, 106, 106, 125, 134, 134
+  ],
+  "floor_reached": 33,
+  "playtime": 822,
+  "items_purged": ["Defend_P", "Defend_P", "Strike_P"],
+  "score": 610,
+  "play_id": "771abfe7-6eba-4a04-b6be-866005379232",
+  "local_time": "20241211200243",
+  "is_ascension_mode": true,
+  "campfire_choices": [
+    { "data": "Eruption", "floor": 6.0, "key": "SMITH" },
+    { "data": "SandsOfTime", "floor": 8.0, "key": "SMITH" },
+    { "data": "Strike_P", "floor": 10.0, "key": "SMITH" },
+    { "floor": 15.0, "key": "REST" },
+    { "floor": 23.0, "key": "REST" },
+    { "floor": 25.0, "key": "REST" },
+    { "floor": 28.0, "key": "REST" },
+    { "floor": 32.0, "key": "REST" }
+  ],
+  "neow_cost": "NONE",
+  "seed_source_timestamp": 859161488858900,
+  "circlet_count": 0,
+  "master_deck": [
+    "AscendersBane",
+    "Strike_P+1",
+    "Strike_P",
+    "Strike_P",
+    "Defend_P+1",
+    "Eruption+1",
+    "Vigilance+1",
+    "SandsOfTime+1",
+    "Adaptation",
+    "Wallop",
+    "Halt+1"
+  ],
+  "special_seed": 0,
+  "relics": [
+    "PureWater",
+    "SlaversCollar",
+    "CeramicFish",
+    "Dream Catcher",
+    "Juzu Bracelet"
+  ],
+  "potions_floor_usage": [33, 33],
+  "damage_taken": [
+    { "damage": 0.0, "enemies": "Cultist", "floor": 1.0, "turns": 3.0 },
+    { "damage": 9.0, "enemies": "Small Slimes", "floor": 4.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "2 Louse", "floor": 7.0, "turns": 2.0 },
+    { "damage": 5.0, "enemies": "2 Fungi Beasts", "floor": 11.0, "turns": 3.0 },
+    { "damage": 8.0, "enemies": "Blue Slaver", "floor": 12.0, "turns": 2.0 },
+    { "damage": 6.0, "enemies": "3 Louse", "floor": 13.0, "turns": 4.0 },
+    { "damage": 0.0, "enemies": "Slime Boss", "floor": 16.0, "turns": 3.0 },
+    { "damage": 43.0, "enemies": "3 Byrds", "floor": 18.0, "turns": 7.0 },
+    {
+      "damage": 14.0,
+      "enemies": "Spheric Guardian",
+      "floor": 24.0,
+      "turns": 3.0
+    },
+    {
+      "damage": 28.0,
+      "enemies": "Gremlin Leader",
+      "floor": 27.0,
+      "turns": 5.0
+    },
+    {
+      "damage": 5.0,
+      "enemies": "Shelled Parasite and Fungi",
+      "floor": 29.0,
+      "turns": 3.0
+    },
+    { "damage": 1.0, "enemies": "Snecko", "floor": 31.0, "turns": 4.0 },
+    { "damage": 56, "enemies": "Automaton", "floor": 33, "turns": 6 }
+  ],
+  "seed_played": "5722319508772770351",
+  "potions_obtained": [
+    { "floor": 1.0, "key": "ColorlessPotion" },
+    { "floor": 4.0, "key": "FearPotion" },
+    { "floor": 12.0, "key": "BlessingOfTheForge" },
+    { "floor": 16.0, "key": "EntropicBrew" },
+    { "floor": 27.0, "key": "Dexterity Potion" },
+    { "floor": 29.0, "key": "Energy Potion" },
+    { "floor": 30.0, "key": "Strength Potion" },
+    { "floor": 30.0, "key": "PowerPotion" }
+  ],
+  "is_trial": false,
+  "path_per_floor": [
+    "M",
+    "$",
+    "?",
+    "M",
+    "$",
+    "R",
+    "M",
+    "R",
+    "T",
+    "R",
+    "M",
+    "M",
+    "M",
+    "?",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "?",
+    "?",
+    "T",
+    "R",
+    "M",
+    "R",
+    "T",
+    "E",
+    "R",
+    "M",
+    "?",
+    "M",
+    "R",
+    "B"
+  ],
+  "character_chosen": "WATCHER",
+  "items_purchased": ["Adaptation"],
+  "campfire_rested": 5,
+  "item_purchase_floors": [5],
+  "current_hp_per_floor": [
+    61, 61, 61, 52, 52, 52, 52, 52, 52, 52, 47, 39, 33, 13, 33, 33, 59, 16, 16,
+    16, 16, 16, 36, 22, 42, 42, 14, 34, 29, 29, 28, 48, 0
+  ],
+  "gold": 134,
+  "neow_bonus": "HUNDRED_GOLD",
+  "is_prod": false,
+  "is_daily": false,
+  "chose_seed": false,
+  "campfire_upgraded": 3,
+  "win_rate": 0,
+  "timestamp": 1733976163,
+  "path_taken": [
+    "M",
+    "?",
+    "?",
+    "M",
+    "$",
+    "R",
+    "M",
+    "R",
+    "T",
+    "R",
+    "M",
+    "M",
+    "M",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "$",
+    "?",
+    "?",
+    "?",
+    "R",
+    "M",
+    "R",
+    "T",
+    "E",
+    "R",
+    "M",
+    "?",
+    "M",
+    "R",
+    "BOSS"
+  ],
+  "build_version": "2022-12-18",
+  "purchased_purges": 3,
+  "victory": false,
+  "max_hp_per_floor": [
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68,
+    68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68
+  ],
+  "card_choices": [
+    {
+      "not_picked": ["ReachHeaven", "ThirdEye"],
+      "picked": "SandsOfTime",
+      "floor": 1.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "Fasting2", "Consecrate"],
+      "picked": "SKIP",
+      "floor": 4.0
+    },
+    {
+      "not_picked": ["FollowUp", "Halt", "Consecrate"],
+      "picked": "SKIP",
+      "floor": 7.0
+    },
+    {
+      "not_picked": ["Evaluate", "WreathOfFlame", "Halt"],
+      "picked": "SKIP",
+      "floor": 11.0
+    },
+    {
+      "not_picked": ["FlyingSleeves", "ThirdEye", "LikeWater"],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": ["Protect", "Halt", "CarveReality"],
+      "picked": "SKIP",
+      "floor": 13.0
+    },
+    {
+      "not_picked": ["Indignation", "CrushJoints", "BattleHymn"],
+      "picked": "SKIP",
+      "floor": 18.0
+    },
+    {
+      "not_picked": ["Tantrum", "FlurryOfBlows", "EmptyFist"],
+      "picked": "SKIP",
+      "floor": 24.0
+    },
+    {
+      "not_picked": ["LikeWater", "SashWhip", "Crescendo"],
+      "picked": "SKIP",
+      "floor": 27.0
+    },
+    {
+      "not_picked": ["SashWhip", "CarveReality"],
+      "picked": "Wallop",
+      "floor": 28.0
+    },
+    {
+      "not_picked": ["Worship", "BowlingBash", "FlurryOfBlows"],
+      "picked": "SKIP",
+      "floor": 29.0
+    },
+    {
+      "not_picked": ["EmptyMind", "ThirdEye", "EmptyBody"],
+      "picked": "SKIP",
+      "floor": 31.0
+    },
+    {
+      "not_picked": ["FlurryOfBlows", "BowlingBash"],
+      "picked": "Halt+1",
+      "floor": 32.0
+    }
+  ],
+  "player_experience": 1299232,
+  "relics_obtained": [
+    { "floor": 22.0, "key": "CeramicFish" },
+    { "floor": 26.0, "key": "Dream Catcher" },
+    { "floor": 27.0, "key": "Juzu Bracelet" }
+  ],
+  "event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Scrap Ooze",
+      "player_choice": "Fled",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Shining Light",
+      "player_choice": "Entered Light",
+      "floor": 14.0,
+      "gold_loss": 0.0,
+      "damage_taken": 20.0,
+      "cards_upgraded": ["Defend_P", "Vigilance"]
+    },
+    {
+      "cards_removed": ["Defend_P"],
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Back to Basics",
+      "player_choice": "Elegance",
+      "floor": 20.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Ghosts",
+      "player_choice": "Ignored",
+      "floor": 21.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Lab",
+      "player_choice": "Got Potions",
+      "floor": 30.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0
+    }
+  ],
+  "is_beta": false,
+  "boss_relics": [
+    {
+      "not_picked": ["Calling Bell", "Velvet Choker"],
+      "picked": "SlaversCollar"
+    }
+  ],
+  "items_purged_floors": [2, 5, 19],
+  "is_endless": false,
+  "potions_floor_spawned": [1, 4, 12, 16, 27, 29],
+  "killed_by": "Automaton",
+  "ascension_level": 20
+}
